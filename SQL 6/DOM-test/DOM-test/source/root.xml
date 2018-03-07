@@ -1,0 +1,68 @@
+<ROOT>
+	<iPhone ModelID="M68" TradeName="iPhone" ModelName="iPhone 1,1">
+		<Information OS="iPhone OS 1.0"
+					 System-On-Chip="Samsung S5L8900"
+					 CPU="ARM 1176JZ(F)-S"
+					 RAM="128MB"
+					 Storage="4GB/8GB"
+					 Top-Data-Speed="EDGE"
+					 Battery="1400mAh"
+					 Release-Date="2007-06-29">
+		</Information>
+	</iPhone>
+	<iPhone ModelID="N82" TradeName="iPhone 3G" ModelName="iPhone 1,2">
+		<Information OS="iPhone OS 2.0"
+					 System-On-Chip="Samsung S5L8900"
+					 CPU="ARM 1176JZ(F)-S"
+					 RAM="128MB"
+					 Storage="8GB/16GB"
+					 Top-Data-Speed="3G 3.6"
+					 Battery="1150mAh"
+					 Release-Date="2008-07-11">
+		</Information>
+	</iPhone>
+	<iPhone ModelID="N88" TradeName="iPhone 3GS" ModelName="iPhone 2,1">
+		<Information OS="iPhone OS 3.0"
+					 System-On-Chip="Samsung APL0298C05"
+					 CPU="600MHz ARM Cortex A8"
+					 RAM="256MB"
+					 Storage="16GB/32GB"
+					 Top-Data-Speed="HSPA 7.2"
+					 Battery="1219mAh"
+					 Release-Date="2009-06-19">
+		</Information>
+	</iPhone>
+	<iPhone ModelID="N90/N92" TradeName="iPhone 4" ModelName="iPhone 3,1">
+		<Information OS="iOS 4"
+					 System-On-Chip="Apple A4"
+					 CPU="800MHz ARM Cortex A8"
+					 RAM="512MB"
+					 Storage="16GB/32GB"
+					 Top-Data-Speed="HSPA 7.2"
+					 Battery="1420mAh"
+					 Release-Date="2010-06-24">
+		</Information>
+	</iPhone>
+	<iPhone ModelID="N94" TradeName="iPhone 4S" ModelName="iPhone 4,1">
+		<Information OS="iOS 5" 
+					 System-On-Chip="Apple A5" 
+					 CPU="800MHz Dual-core ARM Cortex A9" 
+					 RAM="512MB" 
+					 Storage="16GB/32GB/64GB" 
+					 Top-Data-Speed="HSPA 14.4" 
+					 Battery="1430mAh"
+					 Release-Date="2011-10-14">
+		</Information>
+	</iPhone>
+	<iPhone ModelID="N41/N42" TradeName="iPhone 5" ModelName="iPhone 5,1">
+		<Information OS="iOS 6"
+					 System-On-Chip="Apple A6"
+					 CPU="1.2GHz Dual-core custom ARM Cortex v7s"
+					 RAM="1GB"
+					 Storage="16GB/32GB/64GB"
+					 Top-Data-Speed="LTE/DC-HSPA"
+					 Battery="1440mAh"
+					 Release-Date="2012-09-21">
+		</Information>
+	</iPhone>
+</ROOT>

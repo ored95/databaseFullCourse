@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DOM>
+  <!--The W3C Document Object Model (DOM) is a platform and language-neutral interface that allows programs 
+      and scripts to dynamically access and update the content, structure, and style of a document.-->
+  <![CDATA[
+    <introduction>
+      The DOM defines a standard for accessing and manipulating documents.
+      The XML DOM presents an XML document as a tree-structure.
+      The HTML DOM presents an HTML document as a tree-structure.
+      Understanding the DOM is a must for anyone working with HTML or XML.
+    </instroduction>
+    <source>http://www.w3schools.com/xml/dom_intro.asp</source>
+    <script>
+      document.getElementById("demo").innerHTML = "Hello World!";
+    </script>
+  ]]>
+  <!--The DOM defines the objects and properties of all document elements, and the methods (interface) to access them.-->
+</DOM>

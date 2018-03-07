@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<instruction>
+  <?MVdata target="top.xml" ?>
+  <?iPhoneInfor rootFile="root.xml" ?>
+  <?bookInfor backup="books.xml" href="www.amazon.com/books" ?>
+  <?visual-studio version="2013" framework="4.5" pakage="sharp" ?>
+  <?extended OS="Kali.xml" ?>
+  <?xmlInfor version="1.0" encoding="utf-8" ?>
+  <player>
+    <name>Joker</name>
+    <position>Leader</position>
+    <time>5</time>
+  </player>
+</instruction>
