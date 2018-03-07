@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ROOT" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="ROOT" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="iPhone">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Information" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:attribute name="OS" type="xs:string" />
+                  <xs:attribute name="System-On-Chip" type="xs:string" />
+                  <xs:attribute name="CPU" type="xs:string" />
+                  <xs:attribute name="RAM" type="xs:string" />
+                  <xs:attribute name="Storage" type="xs:string" />
+                  <xs:attribute name="Top-Data-Speed" type="xs:string" />
+                  <xs:attribute name="Battery" type="xs:string" />
+                  <xs:attribute name="Release-Date" type="xs:string" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="ModelID" type="xs:string" />
+            <xs:attribute name="TradeName" type="xs:string" />
+            <xs:attribute name="ModelName" type="xs:string" />
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

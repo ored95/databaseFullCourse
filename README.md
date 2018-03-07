@@ -14,4 +14,5 @@ Performance of database course, using language programming: SQL, C#,...
 	. SQL 2: Command SELECT with 25 types of request.
 	. SQL 3: Functions, Stored procedures, Triggers.
 	. SQL 4: C# imports/exports from/to SQL.
+	. SQL 5: DTD, XSD. SQL + XML Technical.
 ```

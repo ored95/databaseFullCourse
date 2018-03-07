@@ -1,0 +1,16 @@
+<!ELEMENT iPhone (Information)*>
+<!ATTLIST iPhone
+	ModelID 	#REQUIRED
+	TradeName 	#REQUIRED
+	ModelName 	#REQUIRED
+>
+<!ELEMENT Information EMPTY>
+<!ATTLIST Information
+	OS 				PCDATA 	#REQUIRED
+	System-On-Chip 	PCDATA 	#REQUIRED
+	CPU 			PCDATA 	#REQUIRED
+	RAM 			CDATA 	#REQUIRED
+	Storage			PCDATA	#REQUIRED
+	Top-Data-Speed	PCDATA	#REQUIRED
+	Release-Date 	PCDATA	#REQUIRED
+>
