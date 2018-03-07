@@ -1,0 +1,5 @@
+D:\BigDATA\SQL 4\SQLServerAggregate\SQLServerAggregate\bin\Debug\SQLServerAggregate.dll
+D:\BigDATA\SQL 4\SQLServerAggregate\SQLServerAggregate\bin\Debug\SQLServerAggregate.pdb
+D:\BigDATA\SQL 4\SQLServerAggregate\SQLServerAggregate\obj\Debug\SQLServerAggregate.dll
+D:\BigDATA\SQL 4\SQLServerAggregate\SQLServerAggregate\obj\Debug\SQLServerAggregate.pdb
+D:\BigDATA\SQL 4\SQLServerAggregate\SQLServerAggregate\obj\Debug\SQLServerAggregate.csprojResolveAssemblyReference.cache

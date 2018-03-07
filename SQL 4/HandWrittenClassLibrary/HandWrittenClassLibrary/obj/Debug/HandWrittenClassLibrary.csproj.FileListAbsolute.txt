@@ -1,0 +1,5 @@
+D:\BigDATA\SQL 4\HandWrittenClassLibrary\HandWrittenClassLibrary\bin\Debug\HandWrittenClassLibrary.dll
+D:\BigDATA\SQL 4\HandWrittenClassLibrary\HandWrittenClassLibrary\bin\Debug\HandWrittenClassLibrary.pdb
+D:\BigDATA\SQL 4\HandWrittenClassLibrary\HandWrittenClassLibrary\obj\Debug\HandWrittenClassLibrary.dll
+D:\BigDATA\SQL 4\HandWrittenClassLibrary\HandWrittenClassLibrary\obj\Debug\HandWrittenClassLibrary.pdb
+D:\BigDATA\SQL 4\HandWrittenClassLibrary\HandWrittenClassLibrary\obj\Debug\HandWrittenClassLibrary.csprojResolveAssemblyReference.cache

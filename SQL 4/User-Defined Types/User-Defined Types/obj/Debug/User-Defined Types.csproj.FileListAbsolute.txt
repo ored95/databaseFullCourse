@@ -1,0 +1,4 @@
+D:\BigDATA\SQL 4\User-Defined Types\User-Defined Types\bin\Debug\User-Defined Types.dll
+D:\BigDATA\SQL 4\User-Defined Types\User-Defined Types\bin\Debug\User-Defined Types.pdb
+D:\BigDATA\SQL 4\User-Defined Types\User-Defined Types\obj\Debug\User-Defined Types.dll
+D:\BigDATA\SQL 4\User-Defined Types\User-Defined Types\obj\Debug\User-Defined Types.pdb

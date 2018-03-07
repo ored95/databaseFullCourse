@@ -1,0 +1,5 @@
+D:\BigDATA\SQL 4\Triggers\Triggers\bin\Debug\Triggers.dll
+D:\BigDATA\SQL 4\Triggers\Triggers\bin\Debug\Triggers.pdb
+D:\BigDATA\SQL 4\Triggers\Triggers\obj\Debug\Triggers.csprojResolveAssemblyReference.cache
+D:\BigDATA\SQL 4\Triggers\Triggers\obj\Debug\Triggers.dll
+D:\BigDATA\SQL 4\Triggers\Triggers\obj\Debug\Triggers.pdb

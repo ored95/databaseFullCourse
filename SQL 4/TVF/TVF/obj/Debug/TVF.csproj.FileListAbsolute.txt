@@ -1,0 +1,4 @@
+D:\BigDATA\SQL 4\TVF\TVF\bin\Debug\TVF.dll
+D:\BigDATA\SQL 4\TVF\TVF\bin\Debug\TVF.pdb
+D:\BigDATA\SQL 4\TVF\TVF\obj\Debug\TVF.dll
+D:\BigDATA\SQL 4\TVF\TVF\obj\Debug\TVF.pdb

@@ -1,0 +1,4 @@
+D:\BigDATA\SQL 4\Stored procedure\Stored procedure\bin\Debug\Stored procedure.dll
+D:\BigDATA\SQL 4\Stored procedure\Stored procedure\bin\Debug\Stored procedure.pdb
+D:\BigDATA\SQL 4\Stored procedure\Stored procedure\obj\Debug\Stored procedure.dll
+D:\BigDATA\SQL 4\Stored procedure\Stored procedure\obj\Debug\Stored procedure.pdb
