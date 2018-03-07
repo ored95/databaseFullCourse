@@ -17,4 +17,5 @@ Performance of database course, using language programming: SQL, C#,...
 	. SQL 5: DTD, XSD. SQL + XML Technical.
 	. SQL 6: DOM Technical.
 	. SQL 7: XQuery Tutorial.
+	. SQL 8: ASP.NET Demo. LinQ Tutorial. LinQ to SQL.
 ```

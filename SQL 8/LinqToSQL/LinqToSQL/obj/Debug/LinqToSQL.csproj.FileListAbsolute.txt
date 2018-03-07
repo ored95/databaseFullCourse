@@ -1,0 +1,6 @@
+D:\BigDATA\SQL 8\LinqToSQL\LinqToSQL\bin\Debug\LinqToSQL.exe.config
+D:\BigDATA\SQL 8\LinqToSQL\LinqToSQL\bin\Debug\LinqToSQL.exe
+D:\BigDATA\SQL 8\LinqToSQL\LinqToSQL\bin\Debug\LinqToSQL.pdb
+D:\BigDATA\SQL 8\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.csprojResolveAssemblyReference.cache
+D:\BigDATA\SQL 8\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.exe
+D:\BigDATA\SQL 8\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.pdb

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Sharp">
+  <DataContextMoniker Name="/SharpDataContext" />
+  <nestedChildShapes>
+    <classShape Id="555fb1e8-462d-4a43-b9db-7839a5ad5adc" absoluteBounds="2, 1.125, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/SharpDataContext/SongDB" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a60ae73d-b93e-4803-998d-1af83afab6c9" absoluteBounds="2.015, 1.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
