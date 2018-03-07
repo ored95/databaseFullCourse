@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <UpcomingFilms2017>
+    <ID>2</ID>
+    <Title>Kong: Skull Island            </Title>
+    <Type>Action, Adventure, Fantasy                        </Type>
+    <Director>Jordan Vogt-Roberts           </Director>
+    <Stars>Brie Larson, Tom Hiddleston, Toby Kebbell                   </Stars>
+    <ReleaseDate>2017-03-10T00:00:00+03:00</ReleaseDate>
+    <Country>USA                           </Country>
+  </UpcomingFilms2017>
+  <UpcomingFilms2017>
+    <ID>1</ID>
+    <Title>Beauty and the Beast          </Title>
+    <Type>Family, Fantasy, Musical                          </Type>
+    <Director>Bill Condon                   </Director>
+    <Stars>Emma Watson, Dan Stevens, Luke Evans                        </Stars>
+    <ReleaseDate>2017-03-17T00:00:00+03:00</ReleaseDate>
+    <Country>USA                           </Country>
+  </UpcomingFilms2017>
+  <UpcomingFilms2017>
+    <ID>8</ID>
+    <Title>Ghost in the Shell            </Title>
+    <Type>Action, Drama, Sci-Fi                             </Type>
+    <Director>Rupert Sanders                </Director>
+    <Stars>Scarlett Johansson, Michael Wincott, Michael Pitt           </Stars>
+    <ReleaseDate>2017-03-31T00:00:00+03:00</ReleaseDate>
+    <Country>USA                           </Country>
+  </UpcomingFilms2017>
+  <UpcomingFilms2017>
+    <ID>4</ID>
+    <Title>The Zookeeper's Wife          </Title>
+    <Type>Biography, Drama, History                         </Type>
+    <Director>Niki Caro                     </Director>
+    <Stars>Jessica Chastain, Daniel Brühl, Johan Heldenbergh           </Stars>
+    <ReleaseDate>2017-03-31T00:00:00+03:00</ReleaseDate>
+    <Country>USA                           </Country>
+  </UpcomingFilms2017>
+  <UpcomingFilms2017>
+    <ID>7</ID>
+    <Title>Fast 8                        </Title>
+    <Type>Action, Crime, Thriller                           </Type>
+    <Director>F. Gary Gray                  </Director>
+    <Stars>Dwayne Johnson, Jason Statham, Charlize Theron              </Stars>
+    <ReleaseDate>2017-04-14T00:00:00+03:00</ReleaseDate>
+    <Country>USA                           </Country>
+  </UpcomingFilms2017>
+  <UpcomingFilms2017>
+    <ID>9</ID>
+    <Title>Baywatch                      </Title>
+    <Type>Comedy                                            </Type>
+    <Director>Seth Gordon                   </Director>
+    <Stars>Alexandra Daddario, Dwayne Johnson, Zac Efron               </Stars>
+    <ReleaseDate>2017-05-19T00:00:00+03:00</ReleaseDate>
+    <Country>USA                           </Country>
+  </UpcomingFilms2017>
+  <UpcomingFilms2017>
+    <ID>6</ID>
+    <Title>Alien: Covenant               </Title>
+    <Type>Action, Adventure, Horror                         </Type>
+    <Director>Ridley Scott                  </Director>
+    <Stars>Katherine Waterston, Michael Fassbender, Carmen Ejogo       </Stars>
+    <ReleaseDate>2017-05-19T00:00:00+03:00</ReleaseDate>
+    <Country>USA                           </Country>
+  </UpcomingFilms2017>
+  <UpcomingFilms2017>
+    <ID>5</ID>
+    <Title>Spider-Man: Homecoming        </Title>
+    <Type>Action, Adventure, Sci-Fi                         </Type>
+    <Director>Jon Watts                     </Director>
+    <Stars>Robert Downey Jr., Donald Glover, Tom Holland               </Stars>
+    <ReleaseDate>2017-07-07T00:00:00+03:00</ReleaseDate>
+    <Country>USA                           </Country>
+  </UpcomingFilms2017>
+  <UpcomingFilms2017>
+    <ID>10</ID>
+    <Title>Thor: Ragnarok                </Title>
+    <Type>Action, Adventure, Fantasy                        </Type>
+    <Director>Taika Waititi                 </Director>
+    <Stars>Tessa Thompson, Benedict Cumberbatch, Idris Elba            </Stars>
+    <ReleaseDate>2017-11-03T00:00:00+03:00</ReleaseDate>
+    <Country>USA                           </Country>
+  </UpcomingFilms2017>
+  <UpcomingFilms2017>
+    <ID>3</ID>
+    <Title>Justice League                </Title>
+    <Type>Action, Adventure, Fantasy                        </Type>
+    <Director>Zack Snyder                   </Director>
+    <Stars>Ezra Miller, Amy Adams, Amber Heard                         </Stars>
+    <ReleaseDate>2017-11-17T00:00:00+03:00</ReleaseDate>
+    <Country>USA                           </Country>
+  </UpcomingFilms2017>
+</NewDataSet>

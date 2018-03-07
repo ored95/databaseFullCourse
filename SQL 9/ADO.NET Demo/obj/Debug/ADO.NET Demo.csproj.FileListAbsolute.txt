@@ -1,0 +1,6 @@
+D:\BigDATA\SQL 9\ADO.NET Demo\bin\Debug\ADO.NET Demo.exe.config
+D:\BigDATA\SQL 9\ADO.NET Demo\bin\Debug\ADO.NET Demo.exe
+D:\BigDATA\SQL 9\ADO.NET Demo\bin\Debug\ADO.NET Demo.pdb
+D:\BigDATA\SQL 9\ADO.NET Demo\obj\Debug\ADO.NET Demo.csprojResolveAssemblyReference.cache
+D:\BigDATA\SQL 9\ADO.NET Demo\obj\Debug\ADO.NET Demo.exe
+D:\BigDATA\SQL 9\ADO.NET Demo\obj\Debug\ADO.NET Demo.pdb
