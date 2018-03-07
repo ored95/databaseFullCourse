@@ -1,0 +1,1000 @@
+1	cuff	synthetics	Germany
+2	zipper	corduroy	China
+3	skirt	spandex	Pakistan
+4	belt	nylon	Greece
+5	cap	textile	Taiwan
+6	corset	spandex	Poland
+7	sneakers	nylon	India
+8	knickers	textile	Tunisia
+9	undershirt	spandex	Romania
+10	hat	nylon	Italy
+11	bracelet	textile	USA
+12	handbag	spandex	Spain
+13	culottes	velvet	Egypt
+14	zoris	textile	Bangladesh
+15	breeches	Lycra	Sweden
+16	beret	velvet	France
+17	culottes	fabric	Bulgaria
+18	sneakers	silk	Great Britain
+19	beret	embroidery	Czech Republic
+20	undershirt	denim	Portugal
+21	corset	linen	Indonesia
+22	sock	fabric	Denmark
+23	knickers	corduroy	Romania
+24	underwear	linen	Kenya
+25	hat	fabric	France
+26	breeches	corduroy	Spain
+27	handbag	linen	Luxembourg
+28	culottes	nylon	Vietnam
+29	waistcoat	corduroy	Sri Lanka
+30	briefs	linen	Pakistan
+31	short	nylon	Cambodia
+32	cummerbund	corduroy	Taiwan
+33	zoris	linen	Poland
+34	beret	velvet	Turkey
+35	undershirt	Lycra	Indonesia
+36	hat	synthetics	Egypt
+37	sneakers	velvet	Vietnam
+38	handbag	Lycra	Italy
+39	undershirt	synthetics	Ethiopia
+40	hat	velvet	Bulgaria
+41	breeches	Lycra	Luxembourg
+42	handbag	leather	Germany
+43	cummerbund	textile	Sweden
+44	zoris	polyester	Netherlands
+45	breeches	leather	Greece
+46	beret	textile	Thailand
+47	cummerbund	polyester	Portugal
+48	waistcoat	leather	India
+49	sock	fabric	Tunisia
+50	short	polyester	Romania
+51	underwear	linen	Czech Republic
+52	hat	fabric	USA
+53	sweater	polyester	Spain
+54	handkerchief	linen	Egypt
+55	trousers	fabric	Vietnam
+56	cravat	Lycra	Sweden
+57	handkerchief	embroidery	Cambodia
+58	culottes	corduroy	Pakistan
+59	waistcoat	cotton	Greece
+60	briefs	spandex	China
+61	short	corduroy	Poland
+62	cummerbund	cotton	Indonesia
+63	umbrella	spandex	Egypt
+64	sock	corduroy	Romania
+65	bloomers	textile	Italy
+66	trousers	synthetics	Turkey
+67	cravat	velvet	Spain
+68	sweater	textile	Luxembourg
+69	handkerchief	synthetics	Bangladesh
+70	trunks	velvet	Sri Lanka
+71	crown	cotton	Netherlands
+72	coat	leather	Bulgaria
+73	nightshirt	velvet	Thailand
+74	jacket	polyester	Great Britain
+75	umbrella	leather	China
+76	collar	velvet	Tunisia
+77	blouse	Lycra	Greece
+78	elastic	leather	Denmark
+79	cap	velvet	USA
+80	T-shirt	Lycra	Indonesia
+81	blouse	leather	Egypt
+82	trunks	fabric	South Korea
+83	cuff	Lycra	Kenya
+84	zipper	denim	France
+85	skirt	fabric	Sri Lanka
+86	belt	Lycra	Netherlands
+87	culottes	denim	Great Britain
+88	collar	fabric	Sweden
+89	sneakers	polyester	Poland
+90	knickers	linen	Cambodia
+91	collar	nylon	Romania
+92	blouse	linen	Denmark
+93	knickers	spandex	Turkey
+94	undershirt	nylon	Spain
+95	zipper	cotton	Ethiopia
+96	bracelet	spandex	Vietnam
+97	belt	velvet	Kenya
+98	cuff	cotton	France
+99	zoris	spandex	Cambodia
+100	skirt	velvet	Netherlands
+101	beret	cotton	Great Britain
+102	culottes	spandex	China
+103	corset	velvet	Pakistan
+104	sneakers	cotton	Greece
+105	knickers	leather	Thailand
+106	underwear	velvet	Portugal
+107	hat	cotton	Indonesia
+108	breeches	leather	Turkey
+109	handbag	velvet	South Korea
+110	underwear	textile	Kenya
+111	zoris	synthetics	Vietnam
+112	briefs	silk	Sri Lanka
+113	short	Lycra	Ethiopia
+114	cummerbund	synthetics	Bangladesh
+115	waistcoat	silk	Sweden
+116	sock	Lycra	France
+117	short	leather	Cambodia
+118	jacket	silk	Thailand
+119	sock	denim	Czech Republic
+120	handbag	spandex	Portugal
+121	underwear	nylon	Italy
+122	hat	denim	Ethiopia
+123	breeches	spandex	South Korea
+124	handkerchief	nylon	Kenya
+125	underwear	denim	France
+126	waistcoat	embroidery	Spain
+127	breeches	nylon	Netherlands
+128	short	cotton	Bulgaria
+129	culottes	embroidery	Sweden
+130	waistcoat	nylon	Pakistan
+131	sweater	cotton	Cambodia
+132	short	embroidery	Taiwan
+133	cummerbund	synthetics	Portugal
+134	hat	cotton	Czech Republic
+135	sweater	spandex	Turkey
+136	handbag	velvet	India
+137	trousers	cotton	Denmark
+138	cravat	spandex	Vietnam
+139	briefs	velvet	Italy
+140	handkerchief	textile	Ethiopia
+141	trunks	spandex	Bangladesh
+142	umbrella	silk	Kenya
+143	coat	textile	France
+144	cummerbund	silk	Poland
+145	waistcoat	fabric	Greece
+146	sock	denim	Thailand
+147	bloomers	silk	Portugal
+148	jacket	fabric	Italy
+149	cravat	denim	Turkey
+150	sweater	silk	South Korea
+151	handkerchief	nylon	Denmark
+152	trousers	denim	USA
+153	crown	silk	Spain
+154	coat	nylon	Ethiopia
+155	nightshirt	denim	Bangladesh
+156	trunks	linen	Sweden
+157	umbrella	nylon	Germany
+158	coat	corduroy	Bulgaria
+159	bloomers	embroidery	Netherlands
+160	elastic	polyester	Greece
+161	cap	corduroy	Czech Republic
+162	T-shirt	embroidery	Poland
+163	blouse	nylon	India
+164	knickers	corduroy	Denmark
+165	crown	spandex	Portugal
+166	zipper	nylon	Italy
+167	skirt	cotton	USA
+168	belt	spandex	South Korea
+169	coat	fabric	Bangladesh
+170	skirt	Lycra	Taiwan
+171	belt	synthetics	Pakistan
+172	cap	fabric	Cambodia
+173	collar	Lycra	Thailand
+174	blouse	silk	Great Britain
+175	elastic	fabric	China
+176	undershirt	Lycra	Turkey
+177	T-shirt	silk	India
+178	bracelet	textile	Denmark
+179	knickers	polyester	USA
+180	cuff	silk	Italy
+181	zipper	textile	Ethiopia
+182	skirt	denim	Spain
+183	beret	silk	Luxembourg
+184	culottes	fabric	Germany
+185	corset	denim	Sri Lanka
+186	sneakers	linen	Netherlands
+187	short	fabric	Greece
+188	undershirt	corduroy	Taiwan
+189	hat	linen	Poland
+190	breeches	polyester	China
+191	handbag	corduroy	Thailand
+192	underwear	linen	Romania
+193	zoris	nylon	Denmark
+194	breeches	denim	Turkey
+195	handkerchief	linen	South Korea
+196	cummerbund	nylon	Egypt
+197	waistcoat	denim	Vietnam
+198	sock	spandex	Italy
+199	short	nylon	France
+200	corset	Lycra	Netherlands
+201	sock	synthetics	Great Britain
+202	short	velvet	Czech Republic
+203	underwear	Lycra	Poland
+204	hat	synthetics	India
+205	breeches	textile	Tunisia
+206	handkerchief	Lycra	Romania
+207	trousers	leather	Indonesia
+208	waistcoat	textile	Turkey
+209	briefs	polyester	Spain
+210	handbag	leather	Luxembourg
+211	cummerbund	textile	Vietnam
+212	umbrella	Lycra	Sri Lanka
+213	sock	silk	Ethiopia
+214	bloomers	fabric	Bulgaria
+215	cummerbund	Lycra	Taiwan
+216	cravat	linen	Great Britain
+217	sock	fabric	Cambodia
+218	bloomers	Lycra	Thailand
+219	trousers	linen	Greece
+220	cravat	fabric	Denmark
+221	coat	denim	Portugal
+222	handkerchief	linen	Indonesia
+223	trousers	fabric	Egypt
+224	waistcoat	denim	Romania
+225	coat	linen	Kenya
+226	nightshirt	embroidery	France
+227	jacket	denim	Spain
+228	umbrella	silk	Luxembourg
+229	sweater	nylon	Bangladesh
+230	jacket	cotton	Poland
+231	cravat	synthetics	China
+232	sweater	velvet	Tunisia
+233	bloomers	cotton	Portugal
+234	trousers	synthetics	Czech Republic
+235	crown	velvet	USA
+236	briefs	spandex	Indonesia
+237	nightshirt	leather	Egypt
+238	trunks	velvet	Vietnam
+239	umbrella	Lycra	Italy
+240	coat	leather	Ethiopia
+241	skirt	velvet	Bulgaria
+242	jacket	Lycra	Netherlands
+243	cap	leather	Germany
+244	T-shirt	fabric	Sweden
+245	blouse	Lycra	Pakistan
+246	elastic	synthetics	India
+247	crown	fabric	Thailand
+248	zipper	Lycra	Portugal
+249	bracelet	synthetics	Indonesia
+250	belt	fabric	Tunisia
+251	cuff	Lycra	Romania
+252	collar	silk	Denmark
+253	skirt	fabric	USA
+254	beret	polyester	Spain
+255	undershirt	silk	Ethiopia
+256	corset	embroidery	Vietnam
+257	sneakers	polyester	Sweden
+258	knickers	silk	Germany
+259	undershirt	embroidery	Cambodia
+260	bracelet	cotton	Greece
+261	knickers	embroidery	Czech Republic
+262	cuff	velvet	Poland
+263	zipper	cotton	Indonesia
+264	breeches	embroidery	Egypt
+265	belt	velvet	Romania
+266	culottes	cotton	Italy
+267	corset	synthetics	USA
+268	sneakers	velvet	Sri Lanka
+269	beret	cotton	Luxembourg
+270	undershirt	synthetics	Bangladesh
+271	corset	velvet	Sweden
+272	sock	cotton	Pakistan
+273	handbag	synthetics	Bulgaria
+274	underwear	velvet	Thailand
+275	zoris	Lycra	Great Britain
+276	breeches	synthetics	China
+277	handkerchief	silk	Tunisia
+278	culottes	Lycra	India
+279	waistcoat	synthetics	Denmark
+280	briefs	velvet	USA
+281	short	Lycra	Italy
+282	corset	fabric	Spain
+283	hat	textile	South Korea
+284	short	denim	Great Britain
+285	underwear	fabric	Sweden
+286	hat	nylon	Pakistan
+287	sock	denim	Greece
+288	handbag	embroidery	Taiwan
+289	trousers	nylon	Portugal
+290	zoris	cotton	China
+291	briefs	embroidery	Tunisia
+292	handkerchief	nylon	Romania
+293	cummerbund	cotton	Denmark
+294	waistcoat	embroidery	USA
+295	coat	polyester	Spain
+296	bloomers	cotton	Ethiopia
+297	jacket	embroidery	Bangladesh
+298	cravat	velvet	Kenya
+299	sweater	cotton	France
+300	short	spandex	Bulgaria
+301	trousers	corduroy	Luxembourg
+302	crown	cotton	Great Britain
+303	sweater	spandex	China
+304	nightshirt	corduroy	Poland
+305	trousers	textile	Greece
+306	breeches	silk	South Korea
+307	handkerchief	fabric	Kenya
+308	jacket	leather	USA
+309	waistcoat	silk	Spain
+310	briefs	fabric	Luxembourg
+311	short	denim	Vietnam
+312	jacket	silk	Sweden
+313	hat	nylon	Germany
+314	sweater	denim	Bulgaria
+315	bloomers	silk	Taiwan
+316	trousers	polyester	Great Britain
+317	cravat	denim	Czech Republic
+318	T-shirt	silk	Tunisia
+319	handkerchief	polyester	India
+320	trunks	denim	Denmark
+321	umbrella	embroidery	Portugal
+322	coat	polyester	Indonesia
+323	nightshirt	corduroy	Ethiopia
+324	jacket	embroidery	South Korea
+325	cap	polyester	Kenya
+326	collar	corduroy	France
+327	blouse	embroidery	Spain
+328	elastic	nylon	Netherlands
+329	crown	cotton	Bulgaria
+330	T-shirt	spandex	Taiwan
+331	bracelet	nylon	Pakistan
+332	belt	cotton	Cambodia
+333	cuff	spandex	Thailand
+334	zipper	nylon	Romania
+335	skirt	cotton	Czech Republic
+336	belt	spandex	Turkey
+337	cap	velvet	India
+338	corset	cotton	Denmark
+339	sneakers	spandex	Vietnam
+340	knickers	velvet	Kenya
+341	undershirt	cotton	Ethiopia
+342	hat	spandex	Bangladesh
+343	bracelet	velvet	Luxembourg
+344	handbag	cotton	Germany
+345	culottes	leather	Sri Lanka
+346	zoris	velvet	Pakistan
+347	breeches	cotton	Greece
+348	culottes	silk	Portugal
+349	zoris	fabric	Italy
+350	sneakers	leather	Turkey
+351	beret	linen	South Korea
+352	undershirt	polyester	Egypt
+353	corset	leather	USA
+354	sock	linen	Spain
+355	knickers	polyester	Ethiopia
+356	underwear	denim	Bulgaria
+357	hat	linen	Sweden
+358	breeches	nylon	Germany
+359	handbag	denim	Cambodia
+360	culottes	spandex	Netherlands
+361	waistcoat	nylon	Greece
+362	briefs	denim	Czech Republic
+363	short	spandex	Poland
+364	cummerbund	nylon	India
+365	waistcoat	denim	Denmark
+366	sock	spandex	Romania
+367	bloomers	nylon	Italy
+368	trousers	cotton	USA
+369	cravat	embroidery	Spain
+370	sweater	nylon	Luxembourg
+371	handkerchief	cotton	Vietnam
+372	trousers	embroidery	Sweden
+373	crown	synthetics	Pakistan
+374	handkerchief	Lycra	Thailand
+375	cummerbund	silk	Greece
+376	waistcoat	textile	China
+377	coat	Lycra	Turkey
+378	short	silk	Indonesia
+379	jacket	fabric	Egypt
+380	umbrella	Lycra	USA
+381	sweater	linen	Italy
+382	bloomers	fabric	France
+383	trousers	leather	Spain
+384	cravat	silk	Luxembourg
+385	T-shirt	fabric	Germany
+386	nightshirt	denim	Sri Lanka
+387	trunks	silk	Netherlands
+388	cravat	fabric	Greece
+389	coat	denim	Taiwan
+390	skirt	silk	Poland
+391	jacket	nylon	China
+392	cap	denim	Tunisia
+393	coat	silk	Romania
+394	blouse	nylon	Denmark
+395	jacket	denim	USA
+396	cap	linen	Spain
+397	zipper	nylon	Egypt
+398	blouse	corduroy	Vietnam
+399	belt	embroidery	Italy
+400	crown	nylon	France
+401	T-shirt	corduroy	Bulgaria
+402	nightshirt	embroidery	Netherlands
+403	belt	nylon	Germany
+404	cuff	corduroy	China
+405	collar	spandex	Poland
+406	skirt	nylon	India
+407	umbrella	Lycra	Romania
+408	collar	synthetics	Italy
+409	blouse	fabric	Turkey
+410	elastic	Lycra	Spain
+411	cap	synthetics	Luxembourg
+412	T-shirt	fabric	Vietnam
+413	blouse	Lycra	Sri Lanka
+414	trunks	silk	France
+415	cuff	fabric	Cambodia
+416	zipper	Lycra	Taiwan
+417	skirt	silk	Great Britain
+418	belt	textile	China
+419	culottes	polyester	Thailand
+420	collar	silk	Greece
+421	sneakers	textile	Denmark
+422	knickers	denim	Portugal
+423	undershirt	silk	Indonesia
+424	corset	fabric	Egypt
+425	bracelet	denim	Romania
+426	handbag	linen	Kenya
+427	underwear	fabric	France
+428	zoris	corduroy	Sri Lanka
+429	breeches	linen	Luxembourg
+430	beret	polyester	Bangladesh
+431	culottes	corduroy	Sweden
+432	waistcoat	linen	Poland
+433	sneakers	nylon	Cambodia
+434	short	corduroy	Thailand
+435	cummerbund	linen	Portugal
+436	hat	nylon	China
+437	sock	denim	Turkey
+438	handbag	spandex	India
+439	trousers	nylon	Denmark
+440	cravat	denim	USA
+441	briefs	spandex	Italy
+442	handkerchief	nylon	Ethiopia
+443	trunks	corduroy	Bangladesh
+444	waistcoat	spandex	Luxembourg
+445	short	textile	Sweden
+446	cummerbund	Lycra	Pakistan
+447	waistcoat	leather	India
+448	sock	textile	Taiwan
+449	short	polyester	Portugal
+450	jacket	leather	Indonesia
+451	cravat	textile	Tunisia
+452	sweater	Lycra	Romania
+453	handkerchief	silk	Denmark
+454	trousers	fabric	Vietnam
+455	crown	Lycra	Spain
+456	briefs	linen	Ethiopia
+457	nightshirt	fabric	Bangladesh
+458	trunks	Lycra	Taiwan
+459	umbrella	linen	France
+460	coat	fabric	Cambodia
+461	bloomers	denim	Netherlands
+462	elastic	linen	Great Britain
+463	cap	fabric	China
+464	T-shirt	denim	Poland
+465	blouse	linen	India
+466	elastic	embroidery	Denmark
+467	crown	denim	Romania
+468	zipper	linen	Italy
+469	nightshirt	nylon	Turkey
+470	belt	denim	South Korea
+471	cuff	linen	Luxembourg
+472	collar	nylon	Vietnam
+473	skirt	corduroy	Sri Lanka
+474	cap	synthetics	Bulgaria
+475	collar	velvet	Thailand
+476	blouse	spandex	Greece
+477	elastic	leather	Czech Republic
+478	cap	velvet	Tunisia
+479	T-shirt	Lycra	India
+480	bracelet	leather	Denmark
+481	elastic	velvet	USA
+482	cuff	Lycra	Italy
+483	T-shirt	leather	Ethiopia
+484	skirt	fabric	South Korea
+485	belt	Lycra	Kenya
+486	cuff	synthetics	Germany
+487	corset	fabric	Sri Lanka
+488	skirt	Lycra	Netherlands
+489	belt	synthetics	Great Britain
+490	cap	fabric	Taiwan
+491	corset	Lycra	Pakistan
+492	bracelet	silk	Cambodia
+493	knickers	fabric	Tunisia
+494	undershirt	polyester	Romania
+495	zipper	silk	Czech Republic
+496	bracelet	embroidery	Turkey
+497	crown	linen	Ethiopia
+498	zipper	spandex	Bangladesh
+499	skirt	corduroy	Luxembourg
+500	belt	cotton	France
+501	cuff	spandex	Bulgaria
+502	collar	velvet	Netherlands
+503	sneakers	cotton	Greece
+504	beret	embroidery	China
+505	undershirt	velvet	Poland
+506	corset	cotton	India
+507	bracelet	synthetics	Thailand
+508	knickers	velvet	Romania
+509	underwear	cotton	Italy
+510	zoris	synthetics	Turkey
+511	breeches	velvet	South Korea
+512	handbag	cotton	Kenya
+513	culottes	synthetics	USA
+514	zoris	velvet	Sri Lanka
+515	sneakers	Lycra	France
+516	short	synthetics	Bulgaria
+517	cummerbund	silk	Sweden
+518	hat	Lycra	Germany
+519	sock	synthetics	China
+520	bloomers	velvet	Tunisia
+521	underwear	Lycra	Greece
+522	cravat	leather	Czech Republic
+523	handbag	nylon	Indonesia
+524	underwear	denim	Ethiopia
+525	zoris	fabric	Spain
+526	breeches	nylon	Kenya
+527	handkerchief	denim	France
+528	cummerbund	embroidery	Sri Lanka
+529	waistcoat	nylon	Pakistan
+530	sock	cotton	Bulgaria
+531	short	embroidery	Taiwan
+532	jacket	nylon	Poland
+533	hat	cotton	Cambodia
+534	sweater	embroidery	Thailand
+535	bloomers	nylon	Romania
+536	trousers	cotton	Czech Republic
+537	undershirt	nylon	Cambodia
+538	zipper	linen	Pakistan
+539	bracelet	embroidery	Greece
+540	knickers	nylon	China
+541	cuff	linen	Poland
+542	zoris	spandex	India
+543	skirt	corduroy	Thailand
+544	beret	cotton	Romania
+545	culottes	spandex	Italy
+546	corset	corduroy	Turkey
+547	sneakers	cotton	South Korea
+548	short	spandex	Luxembourg
+549	underwear	velvet	Bangladesh
+550	hat	cotton	Sri Lanka
+551	breeches	leather	France
+552	handbag	velvet	Bulgaria
+553	trousers	cotton	Taiwan
+554	zoris	leather	Germany
+555	briefs	velvet	China
+556	culottes	leather	India
+557	zoris	silk	Denmark
+558	sneakers	polyester	Romania
+559	beret	leather	Italy
+560	cummerbund	linen	Ethiopia
+561	hat	polyester	Spain
+562	sock	leather	Luxembourg
+563	short	linen	France
+564	underwear	polyester	Sri Lanka
+565	cravat	denim	Pakistan
+566	breeches	embroidery	Bulgaria
+567	handkerchief	nylon	Taiwan
+568	underwear	denim	Poland
+569	waistcoat	embroidery	Cambodia
+570	briefs	nylon	Tunisia
+571	handkerchief	denim	Romania
+572	jacket	embroidery	Denmark
+573	waistcoat	nylon	Turkey
+574	sweater	cotton	Indonesia
+575	short	embroidery	Egypt
+576	cummerbund	nylon	Vietnam
+577	cravat	cotton	Kenya
+578	sweater	embroidery	France
+579	bloomers	nylon	Bulgaria
+580	trousers	cotton	Luxembourg
+581	cravat	embroidery	Great Britain
+582	briefs	velvet	Sri Lanka
+583	handkerchief	cotton	Pakistan
+584	trunks	embroidery	Greece
+585	umbrella	velvet	Thailand
+586	coat	cotton	Poland
+587	nightshirt	spandex	Indonesia
+588	waistcoat	fabric	Spain
+589	sock	leather	Egypt
+590	bloomers	velvet	Vietnam
+591	jacket	fabric	Sweden
+592	cravat	leather	Ethiopia
+593	sweater	silk	Bulgaria
+594	blouse	fabric	Taiwan
+595	trousers	denim	Germany
+596	crown	silk	Cambodia
+597	coat	nylon	Pakistan
+598	nightshirt	denim	India
+599	trunks	silk	Czech Republic
+600	umbrella	nylon	Portugal
+601	collar	denim	Indonesia
+602	skirt	silk	Ethiopia
+603	elastic	nylon	Romania
+604	cap	denim	Kenya
+605	T-shirt	embroidery	USA
+606	blouse	polyester	Spain
+607	cravat	spandex	Bangladesh
+608	T-shirt	nylon	Taiwan
+609	blouse	velvet	Poland
+610	trunks	spandex	China
+611	crown	synthetics	Thailand
+612	coat	textile	Greece
+613	skirt	spandex	Czech Republic
+614	belt	synthetics	USA
+615	cap	textile	Indonesia
+616	collar	Lycra	Egypt
+617	skirt	synthetics	Vietnam
+618	elastic	fabric	Italy
+619	undershirt	Lycra	France
+620	zipper	velvet	Sri Lanka
+621	bracelet	fabric	Luxembourg
+622	knickers	Lycra	Germany
+623	cuff	silk	Sweden
+624	zipper	textile	Pakistan
+625	breeches	Lycra	Greece
+626	beret	silk	Thailand
+627	culottes	textile	Portugal
+628	corset	denim	China
+629	sneakers	silk	Tunisia
+630	short	textile	South Korea
+631	undershirt	denim	Denmark
+632	hat	silk	USA
+633	sock	fabric	Spain
+634	handbag	denim	Ethiopia
+635	zipper	nylon	Luxembourg
+636	bracelet	corduroy	Great Britain
+637	handbag	cotton	Cambodia
+638	culottes	nylon	Pakistan
+639	zoris	corduroy	Greece
+640	breeches	cotton	Denmark
+641	beret	synthetics	Portugal
+642	cummerbund	corduroy	Indonesia
+643	corset	spandex	Tunisia
+644	sock	synthetics	Romania
+645	short	corduroy	Italy
+646	underwear	Lycra	USA
+647	hat	synthetics	Spain
+648	sweater	corduroy	Luxembourg
+649	handkerchief	Lycra	Bangladesh
+650	trousers	synthetics	Sweden
+651	waistcoat	textile	France
+652	briefs	Lycra	Cambodia
+653	handkerchief	synthetics	Thailand
+654	cummerbund	textile	Great Britain
+655	umbrella	Lycra	China
+656	briefs	leather	Tunisia
+657	bloomers	textile	Greece
+658	jacket	spandex	Denmark
+659	cravat	silk	Romania
+660	short	polyester	Ethiopia
+661	trousers	linen	Spain
+662	hat	embroidery	Netherlands
+663	sock	polyester	Great Britain
+664	handkerchief	cotton	Sweden
+665	underwear	embroidery	Pakistan
+666	waistcoat	denim	Bulgaria
+667	briefs	cotton	Taiwan
+668	handkerchief	embroidery	Portugal
+669	cummerbund	corduroy	Czech Republic
+670	waistcoat	cotton	Tunisia
+671	coat	embroidery	Romania
+672	short	corduroy	Denmark
+673	jacket	linen	USA
+674	cravat	synthetics	Italy
+675	sweater	corduroy	Ethiopia
+676	bloomers	linen	Bangladesh
+677	trousers	synthetics	Kenya
+678	crown	corduroy	France
+679	T-shirt	cotton	Cambodia
+680	nightshirt	synthetics	Netherlands
+681	trunks	corduroy	Great Britain
+682	umbrella	spandex	Taiwan
+683	coat	synthetics	Pakistan
+684	skirt	velvet	India
+685	jacket	spandex	Tunisia
+686	cap	leather	Romania
+687	bloomers	Lycra	USA
+688	jacket	denim	Spain
+689	cravat	fabric	Egypt
+690	T-shirt	polyester	Bangladesh
+691	blouse	leather	Sweden
+692	trunks	embroidery	France
+693	crown	polyester	Bulgaria
+694	zipper	leather	Thailand
+695	nightshirt	embroidery	Greece
+696	belt	polyester	China
+697	cap	linen	Poland
+698	collar	embroidery	India
+699	skirt	polyester	Czech Republic
+700	elastic	linen	Portugal
+701	cap	embroidery	Italy
+702	corset	nylon	Ethiopia
+703	bracelet	linen	South Korea
+704	knickers	embroidery	Kenya
+705	cuff	corduroy	USA
+706	zipper	linen	Sri Lanka
+707	breeches	embroidery	Netherlands
+708	cuff	textile	Taiwan
+709	zipper	spandex	Poland
+710	skirt	velvet	China
+711	belt	textile	Turkey
+712	cap	synthetics	India
+713	corset	silk	Denmark
+714	sneakers	textile	USA
+715	knickers	leather	Indonesia
+716	undershirt	silk	Ethiopia
+717	corset	textile	Bangladesh
+718	bracelet	leather	Kenya
+719	handbag	silk	France
+720	cuff	polyester	Sri Lanka
+721	zoris	leather	Netherlands
+722	breeches	silk	Great Britain
+723	beret	polyester	Taiwan
+724	culottes	leather	Poland
+725	waistcoat	velvet	India
+726	beret	denim	South Korea
+727	undershirt	embroidery	Denmark
+728	corset	nylon	USA
+729	sneakers	corduroy	Spain
+730	knickers	embroidery	Ethiopia
+731	underwear	synthetics	Vietnam
+732	hat	corduroy	Sweden
+733	breeches	embroidery	Germany
+734	handbag	synthetics	Bulgaria
+735	culottes	cotton	Netherlands
+736	zoris	spandex	Great Britain
+737	briefs	synthetics	Czech Republic
+738	short	textile	Pakistan
+739	cummerbund	spandex	India
+740	waistcoat	nylon	Denmark
+741	sock	textile	Portugal
+742	bloomers	spandex	Indonesia
+743	underwear	silk	Turkey
+744	cravat	textile	South Korea
+745	sweater	spandex	Kenya
+746	handkerchief	velvet	Vietnam
+747	trousers	textile	Sri Lanka
+748	cravat	spandex	Netherlands
+749	briefs	velvet	Bangladesh
+750	handkerchief	textile	Taiwan
+751	jacket	leather	Germany
+752	umbrella	velvet	Cambodia
+753	briefs	fabric	Thailand
+754	bloomers	leather	Great Britain
+755	jacket	velvet	Czech Republic
+756	umbrella	fabric	Turkey
+757	sweater	leather	Indonesia
+758	bloomers	silk	Denmark
+759	hat	corduroy	Kenya
+760	sweater	linen	Germany
+761	handkerchief	polyester	Sri Lanka
+762	trousers	corduroy	Netherlands
+763	cravat	linen	Great Britain
+764	briefs	nylon	Sweden
+765	handkerchief	corduroy	Poland
+766	cummerbund	spandex	China
+767	umbrella	nylon	Thailand
+768	coat	corduroy	Portugal
+769	bloomers	spandex	Czech Republic
+770	jacket	nylon	Tunisia
+771	cap	corduroy	South Korea
+772	sweater	spandex	Egypt
+773	blouse	nylon	Vietnam
+774	trunks	textile	Italy
+775	crown	spandex	Ethiopia
+776	T-shirt	synthetics	Bulgaria
+777	nightshirt	textile	Luxembourg
+778	trunks	spandex	Germany
+779	cuff	synthetics	Cambodia
+780	collar	cotton	Netherlands
+781	skirt	Lycra	Great Britain
+782	elastic	velvet	Taiwan
+783	cap	textile	Portugal
+784	corset	Lycra	India
+785	blouse	velvet	Tunisia
+786	knickers	textile	Romania
+787	T-shirt	linen	Vietnam
+788	blouse	fabric	Sri Lanka
+789	trunks	corduroy	Ethiopia
+790	cuff	linen	Bangladesh
+791	zipper	fabric	Sweden
+792	skirt	corduroy	Germany
+793	belt	linen	Cambodia
+794	cuff	fabric	Thailand
+795	collar	denim	Greece
+796	sneakers	linen	China
+797	elastic	nylon	Poland
+798	undershirt	denim	Indonesia
+799	corset	cotton	Egypt
+800	bracelet	nylon	Romania
+801	knickers	denim	Italy
+802	underwear	cotton	Ethiopia
+803	zoris	nylon	South Korea
+804	breeches	corduroy	Luxembourg
+805	beret	spandex	Bangladesh
+806	culottes	synthetics	Sri Lanka
+807	waistcoat	corduroy	Netherlands
+808	sneakers	spandex	Bulgaria
+809	short	synthetics	Thailand
+810	cummerbund	corduroy	Poland
+811	hat	Lycra	China
+812	sock	synthetics	Tunisia
+813	undershirt	Lycra	Denmark
+814	hat	leather	Vietnam
+815	breeches	fabric	Italy
+816	handbag	Lycra	Ethiopia
+817	underwear	leather	Bangladesh
+818	zoris	fabric	Luxembourg
+819	briefs	Lycra	Germany
+820	beret	linen	Sweden
+821	cummerbund	fabric	Pakistan
+822	waistcoat	Lycra	Greece
+823	sock	linen	Taiwan
+824	short	fabric	Poland
+825	jacket	polyester	Indonesia
+826	cravat	linen	Tunisia
+827	sweater	embroidery	Romania
+828	handkerchief	denim	Denmark
+829	trousers	silk	Turkey
+830	cravat	embroidery	Spain
+831	briefs	denim	Ethiopia
+832	nightshirt	linen	Vietnam
+833	trunks	embroidery	Sri Lanka
+834	umbrella	corduroy	France
+835	coat	linen	Bulgaria
+836	bloomers	synthetics	Luxembourg
+837	jacket	corduroy	Great Britain
+838	umbrella	linen	China
+839	T-shirt	synthetics	Pakistan
+840	bloomers	corduroy	Greece
+841	jacket	linen	Denmark
+842	crown	synthetics	Portugal
+843	sweater	corduroy	Indonesia
+844	nightshirt	spandex	Turkey
+845	trunks	synthetics	South Korea
+846	crown	corduroy	Italy
+847	handkerchief	synthetics	Sweden
+848	trunks	silk	Pakistan
+849	waistcoat	Lycra	Bulgaria
+850	coat	leather	Taiwan
+851	bloomers	fabric	Germany
+852	jacket	Lycra	China
+853	umbrella	leather	Tunisia
+854	sweater	fabric	India
+855	blouse	polyester	Czech Republic
+856	elastic	leather	Turkey
+857	crown	embroidery	Indonesia
+858	T-shirt	polyester	Ethiopia
+859	nightshirt	silk	South Korea
+860	trunks	embroidery	Kenya
+861	cuff	polyester	France
+862	coat	linen	Spain
+863	skirt	fabric	Netherlands
+864	belt	polyester	Great Britain
+865	cap	linen	Sweden
+866	collar	fabric	Pakistan
+867	blouse	corduroy	Cambodia
+868	knickers	linen	Taiwan
+869	T-shirt	velvet	Denmark
+870	blouse	cotton	USA
+871	elastic	spandex	South Korea
+872	crown	velvet	Egypt
+873	zipper	textile	Bangladesh
+874	skirt	synthetics	Kenya
+875	belt	velvet	France
+876	cuff	textile	Bulgaria
+877	collar	synthetics	Luxembourg
+878	skirt	silk	Germany
+879	beret	textile	China
+880	undershirt	leather	Poland
+881	corset	velvet	Greece
+882	bracelet	Lycra	Thailand
+883	knickers	leather	Portugal
+884	underwear	velvet	Italy
+885	zipper	polyester	Turkey
+886	breeches	leather	South Korea
+887	handbag	velvet	Kenya
+888	culottes	polyester	USA
+889	zoris	leather	Spain
+890	sneakers	fabric	Ethiopia
+891	beret	polyester	Bangladesh
+892	cummerbund	leather	Sweden
+893	sneakers	nylon	Cambodia
+894	beret	corduroy	Tunisia
+895	undershirt	embroidery	India
+896	hat	polyester	Denmark
+897	bracelet	cotton	Portugal
+898	handbag	embroidery	Indonesia
+899	underwear	nylon	Egypt
+900	zoris	cotton	Romania
+901	breeches	spandex	Kenya
+902	handkerchief	nylon	France
+903	cummerbund	textile	Spain
+904	waistcoat	spandex	Luxembourg
+905	sock	corduroy	Bangladesh
+906	short	textile	Sweden
+907	cummerbund	spandex	Pakistan
+908	hat	velvet	Cambodia
+909	sweater	textile	Thailand
+910	bloomers	spandex	Portugal
+911	trousers	velvet	China
+912	cravat	textile	Turkey
+913	briefs	leather	India
+914	handkerchief	velvet	Denmark
+915	trunks	cotton	USA
+916	umbrella	leather	Italy
+917	coat	velvet	Egypt
+918	nightshirt	textile	Bangladesh
+919	umbrella	silk	Great Britain
+920	sock	polyester	Sweden
+921	bloomers	denim	Pakistan
+922	jacket	linen	India
+923	cravat	polyester	Thailand
+924	sweater	corduroy	Portugal
+925	bloomers	linen	Indonesia
+926	trousers	polyester	Tunisia
+927	cravat	corduroy	Romania
+928	coat	embroidery	Denmark
+929	nightshirt	nylon	USA
+930	trousers	denim	Spain
+931	umbrella	spandex	Ethiopia
+932	coat	nylon	Bangladesh
+933	nightshirt	denim	Sweden
+934	jacket	spandex	Germany
+935	umbrella	nylon	Cambodia
+936	T-shirt	cotton	Netherlands
+937	bloomers	spandex	Great Britain
+938	elastic	nylon	China
+939	cravat	cotton	Pakistan
+940	T-shirt	spandex	India
+941	blouse	synthetics	Denmark
+942	trunks	cotton	Romania
+943	crown	spandex	Indonesia
+944	coat	velvet	Turkey
+945	skirt	cotton	Spain
+946	belt	Lycra	Luxembourg
+947	cap	velvet	Vietnam
+948	collar	textile	Sri Lanka
+949	jacket	silk	Bulgaria
+950	cap	fabric	Thailand
+951	T-shirt	leather	Greece
+952	blouse	linen	China
+953	elastic	fabric	Tunisia
+954	crown	denim	India
+955	T-shirt	linen	Egypt
+956	bracelet	fabric	USA
+957	belt	denim	Italy
+958	cuff	linen	Ethiopia
+959	collar	nylon	South Korea
+960	skirt	denim	Kenya
+961	beret	linen	Germany
+962	cap	nylon	Sri Lanka
+963	corset	denim	Netherlands
+964	sneakers	silk	Great Britain
+965	knickers	nylon	Sweden
+966	undershirt	denim	Poland
+967	zipper	spandex	China
+968	breeches	nylon	Tunisia
+969	handbag	corduroy	Portugal
+970	culottes	embroidery	Czech Republic
+971	zoris	synthetics	Turkey
+972	breeches	corduroy	Spain
+973	beret	embroidery	Egypt
+974	cummerbund	synthetics	Vietnam
+975	corset	cotton	Italy
+976	sock	spandex	Ethiopia
+977	short	synthetics	Bulgaria
+978	underwear	textile	Netherlands
+979	sock	leather	China
+980	handbag	fabric	Poland
+981	underwear	Lycra	India
+982	zoris	linen	Thailand
+983	breeches	fabric	Romania
+984	handbag	Lycra	Italy
+985	culottes	silk	Turkey
+986	waistcoat	fabric	South Korea
+987	briefs	Lycra	Luxembourg
+988	short	silk	Vietnam
+989	cummerbund	fabric	Sri Lanka
+990	hat	denim	France
+991	sock	silk	Bangladesh
+992	bloomers	embroidery	Sweden
+993	trousers	denim	Germany
+994	cravat	silk	China
+995	sweater	embroidery	Thailand
+996	handkerchief	denim	Greece
+997	trunks	linen	Czech Republic
+998	waistcoat	nylon	Poland
+999	coat	corduroy	Indonesia
+1000	nightshirt	linen	Egypt

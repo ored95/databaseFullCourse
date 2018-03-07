@@ -1,0 +1,1000 @@
+1;AOL Inc;Copenhagen, Denmark
+2;Energizer Hldgs Inc;Funafuti, Tuvalu
+3;Alliant Energy Corp;Managua, Nicaragua
+4;Lifepoint Hospitals Inc;Niamey, Niger
+5;InterDigital Inc;Vienna, Austria
+6;Aecom Technology Corp.;Castries, Saint Lucia
+7;3D Systems Corp;South Tarawa, Kiribati
+8;Deckers Outdoor Corporation;Pristina, Kosovo
+9;Cadence Design Sys Inc;Mbabane, Swaziland
+10;Hawaiian Electric Industries;Port Louis, Mauritius
+11;HollyFrontier Corporation;Mexico City, Mexico
+12;DST Systems Inc;Tashkent, Uzbekistan
+13;Leidos Holdings Inc;Islamabad, Pakistan
+14;Big Lots Inc;Tegucigalpa, Honduras
+15;Bio-Rad Laboratories-A;Budapest, Hungary
+16;Owens & Minor Inc;Belgrade, Serbia
+17;Cytec Industries Inc;Maseru, Lesotho
+18;Dana Holding Corp;Monrovia, Liberia
+19;JDS Uniphase Corp;Bogota, Colombia
+20;Great Plains Energy Inc;Podgorica, Montenegro
+21;NewMarket Corp;Suva, Fiji
+22;National Fuel Gas;Helsinki, Finland
+23;Knowles Corp;Manila, Philippines
+24;Acuity Brands Inc;Baghdad, Iraq
+25;Brunswick Corp;Dublin, Ireland
+26;Federated Investors Inc B;La Paz, Bolivia
+27;CommVault Systems;Skopje, Macedonia
+28;Jarden Corp;Zagreb, Croatia
+29;J.B. Hunt Transport Services, Inc.;Havana, Cuba
+30;Advanced Micro Devices;Tunis, Tunisia
+31;National Instruments Corp;Berlin, Germany
+32;Nabors Industries Ltd;Accra, Ghana
+33;Cinemark Holdings Inc;Saint John's, Antigua and Barbuda
+34;Atmel Corp;Astana, Kazakhstan
+35;Atmos Energy Corp;Nairobi, Kenya
+36;Fairchild Semiconductor Intl A;Bujumbura, Burundi
+37;MB Financial Inc.;Sri Jayawardenepura Kotte, Sri Lanka
+38;Mercury General Corp;Khartoum, Sudan
+39;Intersil Corp A;Santo Domingo, Dominican Republic
+40;Alexander & Baldwin Inc;London, United Kingdom
+41;Align Technology;Washington, D.C., United States of America
+42;Dril-Quip;Oslo, Norway
+43;Mack-Cali Realty Corp;Nassau, Bahamas
+44;Hill-Rom Holdings Inc;Sao Tome, Sao Tome and Principe
+45;Harsco Corp;Riyadh, Saudi Arabia
+46;Extra Space Storage Inc.;N'Djamena, Chad
+47;Lexmark International Inc;Taipei, Taiwan
+48;Live Nation Entertainment Inc;Dushanbe, Tajikistan
+49;Cabela's Inc;Monaco, Monaco
+50;AGCO Corp;Caracas, Venezuela
+51;Aspen Insurance Holdings Ltd;Hanoi, Vietnam
+52;NOW Inc;Asuncion, Paraguay
+53;Kemper Corporation;Jakarta, Indonesia
+54;Kennametal Inc;Tehran, Iran
+55;HNI Corp;Bratislava, Slovakia
+56;OGE Energy Corp;Vilnius, Lithuania
+57;Lifepoint Hospitals Inc;Nukualofa, Tonga
+58;Liberty Property Trust;Port of Spain, Trinidad and Tobago
+59;Broadridge Financial Solutio;Yaren District, Nauru
+60;Graham Holdings Co;Banjul, Gambia
+61;Gentex Corp.;Tbilisi, Georgia
+62;Dean Foods Co;Bucharest, Romania
+63;KB Home;Tokyo, Japan
+64;KBR Inc;Amman, Jordan
+65;Ascena Retail Group Inc;Bandar Seri Begawan, Brunei
+66;Orbital ATK Inc;Bamako, Mali
+67;Omnicare Inc;Valletta, Malta
+68;Carpenter Technology;Copenhagen, Denmark
+69;Bio-Rad Laboratories-A;Abuja, Nigeria
+70;Black Hills Corp;Pyongyang, North Korea
+71;Greif Bros Corp;Conakry, Guinea
+72;Microsemi;Vienna, Austria
+73;Jones Lang Lasalle Inc;Kuwait City, Kuwait
+74;Janus Capital Group Inc;Bishkek, Kyrgyzstan
+75;Alexandria Real Estate Equit;Ottawa, Canada
+76;East West Bancorp Inc;Stockholm, Sweden
+77;Eagle Materials Inc;Bern, Switzerland
+78;Crane Co.;Malabo, Equatorial Guinea
+79;Ingram Micro Inc A;Port Vila, Vanuatu
+80;Foot Locker Inc;Budapest, Hungary
+81;Flowers Foods Inc;Reykjavik, Iceland
+82;Mentor Graphics Corp;Brussels, Belgium
+83;Miller, Herman Inc;Belmopan, Belize
+84;Cognex Corp;Freetown, Sierra Leone
+85;ANSYS Inc;Kinshasa, Democratic Republic of the Congo
+86;Energen Corp;Dili, Timor-Leste
+87;Energizer Hldgs Inc;Lome, Togo
+88;Alliant Energy Corp;Maputo, Mozambique
+89;Idacorp Inc;Tirana, Albania
+90;InterDigital Inc;Algiers, Algeria
+91;Aecom Technology Corp.;Lisbon, Portugal
+92;Mednax Inc;Gaborone, Botswana
+93;MDC Holdings Inc.;Brasilia, Brazil
+94;CDK Global Inc;Seoul, South Korea
+95;HollyFrontier Corporation;Lilongwe, Malawi
+96;Huntington Ingalls Industries Inc.;Kuala Lumpur, Malaysia
+97;DeVry Inc;Kampala, Uganda
+98;Lincoln Electric Holdings Inc.;Managua, Nicaragua
+99;Sotheby's;Athens, Greece
+100;Big Lots Inc;Saint George's, Grenada
+101;Aaron's Inc;Kingstown, Saint Vincent and the Grenadines
+102;City National Corp;Nairobi, Kenya
+103;Cytec Industries Inc;South Tarawa, Kiribati
+104;Cheesecake Factory Inc/The;Stockholm, Sweden
+105;Great Plains Energy Inc;Port Louis, Mauritius
+106;Hain Celestial Group Inc;Mexico City, Mexico
+107;National Retail Properties Inc;Quito, Ecuador
+108;Knowles Corp;Ngerulmud, Palau
+109;Kilroy Realty Corp;Ramallah, Palestine
+110;Brunswick Corp;Tegucigalpa, Honduras
+111;Federated Investors Inc B;Bridgetown, Barbados
+112;CommVault Systems;Beirut, Lebanon
+113;Corrections Corp of America;Maseru, Lesotho
+114;J.B. Hunt Transport Services, Inc.;Beijing, China
+115;Global Payments Inc.;Rabat, Morocco
+116;Gulfport Energy Corp;Maputo, Mozambique
+117;Nabors Industries Ltd;Suva, Fiji
+118;Cinemark Holdings Inc;Lusaka, Zambia
+119;CLECO Corporation;Harare, Zimbabwe
+120;Atmos Energy Corp;Dublin, Ireland
+121;FactSet Research System Inc;La Paz, Bolivia
+122;FEI Company;Sarajevo, Bosnia and Herzegovina
+123;Mercury General Corp;Mogadishu, Somalia
+124;Gartner Inc;Zagreb, Croatia
+125;Itron Inc;Havana, Cuba
+126;Align Technology;Ankara, Turkey
+127;Mettler-Toledo Intl;Accra, Ghana
+128;Minerals Technologies Inc;Athens, Greece
+129;Mack-Cali Realty Corp;Buenos Aires, Argentina
+130;Harsco Corp;Basseterre, Saint Kitts and Nevis
+131;Eagle Materials Inc;Bujumbura, Burundi
+132;Extra Space Storage Inc.;Praia, Cabo Verde
+133;Mid-America Apartment Communities Inc;Khartoum, Sudan
+134;Cabela's Inc;Valletta, Malta
+135;Cheesecake Factory Inc/The;Majuro, Marshall Islands
+136;Arthur J Gallagher & Co;Washington, D.C., United States of America
+137;NOW Inc;Pyongyang, North Korea
+138;Chico's Fas Inc;Manama, Bahrain
+139;Ciena Corp;Dhaka, Bangladesh
+140;HNI Corp;Riyadh, Saudi Arabia
+141;OGE Energy Corp;Vientiane, Laos
+142;ONE Gas Inc;Riga, Latvia
+143;Liberty Property Trust;Dushanbe, Tajikistan
+144;Broadridge Financial Solutio;Chisinau, Moldova
+145;Brown & Brown Inc;Monaco, Monaco
+146;Gentex Corp.;Tallinn, Estonia
+147;Douglass Emmett Inc;Port Moresby, Papua New Guinea
+148;KBR Inc;Jakarta, Indonesia
+149;Kirby Corp;Tehran, Iran
+150;Highwoods Properties;Ljubljana, Slovenia
+151;Omnicare Inc;Vaduz, Liechtenstein
+152;Old Dominion Freight Line Inc;Vilnius, Lithuania
+153;Charles River Laboratories;San Jose, Costa Rica
+154;Black Hills Corp;Windhoek, Namibia
+155;BioMed Realty Trust Inc;Yaren District, Nauru
+156;Fulton Financial Corp (PA);Banjul, Gambia
+157;MSCI Inc;Andorra la Vella, Andorra
+158;MSC Industrial Direct A;Luanda, Angola
+159;Janus Capital Group Inc;Tokyo, Japan
+160;ARRIS Group Inc;Sofia, Bulgaria
+161;NeuStar, Inc.;Male, Maldives
+162;NVR Inc;Bamako, Mali
+163;Crane Co.;Copenhagen, Denmark
+164;Ingram Micro Inc A;Kyiv, Ukraine
+165;Informatica Corp;Abu Dhabi, United Arab Emirates
+166;Flowers Foods Inc;Conakry, Guinea
+167;Mentor Graphics Corp;Baku, Azerbaijan
+168;Miller, Herman Inc;Nassau, Bahamas
+169;Church & Dwight Co;Apia, Samoa
+170;ANSYS Inc;Ottawa, Canada
+171;AOL Inc;Bangui, Central African Republic
+172;Energizer Hldgs Inc;Bern, Switzerland
+173;CNO Financial Group Inc;Malabo, Equatorial Guinea
+174;Idacorp Inc;Port Vila, Vanuatu
+175;InterDigital Inc;Vatican City, Vatican City
+176;Acxiom;Ramallah, Palestine
+177;MDC Holdings Inc.;Brussels, Belgium
+178;Meredith Corp;Belmopan, Belize
+179;CDK Global Inc;Freetown, Sierra Leone
+180;Hawaiian Electric Industries;Monrovia, Liberia
+181;Dril-Quip;Bangkok, Thailand
+182;DST Systems Inc;Dili, Timor-Leste
+183;Lincoln Electric Holdings Inc.;Maputo, Mozambique
+184;Harsco Corp;Tirana, Albania
+185;HSN Inc;Algiers, Algeria
+186;Aaron's Inc;Lisbon, Portugal
+187;Cytec Industries Inc;Jerusalem, Israel
+188;Dana Holding Corp;Rome, Italy
+189;Cathay General Bancorp;Pretoria, South Africa
+190;Great Plains Energy Inc;Lilongwe, Malawi
+191;National Fuel Gas;Havana, Cuba
+192;National Retail Properties Inc;Nicosia, Cyprus
+193;Kilroy Realty Corp;Wellington, New Zealand
+194;Acuity Brands Inc;Athens, Greece
+195;Brunswick Corp;Saint George's, Grenada
+196;Omega Healthcare Investors;Castries, Saint Lucia
+197;CommVault Systems;South Tarawa, Kiribati
+198;Corrections Corp of America;Pristina, Kosovo
+199;J.B. Hunt Transport Services, Inc.;Phnom Penh, Cambodia
+200;GATX Corp.;Nouakchott, Mauritania
+201;Nabors Industries Ltd;Quito, Ecuador
+202;NCR Corp;Cairo, Egypt
+203;Cinemark Holdings Inc;Washington, D.C., United States of America
+204;Atmos Energy Corp;Tegucigalpa, Honduras
+205;AptarGroup Inc;Budapest, Hungary
+206;Fairchild Semiconductor Intl A;Bridgetown, Barbados
+207;Communications Sales & Leasing Inc;Beirut, Lebanon
+208;Carlisle Companies Inc.;Maseru, Lesotho
+209;Intersil Corp A;Bogota, Colombia
+210;Align Technology;Dushanbe, Tajikistan
+211;Alaska Air Group Inc;Dodoma, Tanzania
+212;Mettler-Toledo Intl;Suva, Fiji
+213;Mack-Cali Realty Corp;Sana'a, Yemen
+214;Commercial Metals Company;Lusaka, Zambia
+215;Hill-Rom Holdings Inc;Lima, Peru
+216;Extra Space Storage Inc.;Sarajevo, Bosnia and Herzegovina
+217;First American Financial Corp;Gaborone, Botswana
+218;Mid-America Apartment Communities Inc;Honiara, Solomon Islands
+219;Ingredion Inc;Zagreb, Croatia
+220;World Fuel Services Corp;Havana, Cuba
+221;Arthur J Gallagher & Co;Ankara, Turkey
+222;NOW Inc;Kathmandu, Nepal
+223;Denbury Resources Inc;Amsterdam, Netherlands
+224;Ciena Corp;Saint John's, Antigua and Barbuda
+225;HNI Corp;Kigali, Rwanda
+226;ONE Gas Inc;Amman, Jordan
+227;Omega Healthcare Investors;Astana, Kazakhstan
+228;Liberty Property Trust;Khartoum, Sudan
+229;Brown & Brown Inc;Valletta, Malta
+230;Peabody Energy Corp;Majuro, Marshall Islands
+231;American Eagle Outfitters;London, United Kingdom
+232;Douglass Emmett Inc;Oslo, Norway
+233;KB Home;Bissau, Guinea-Bissau
+234;KBR Inc;Georgetown, Guyana
+235;Huntington Ingalls Industries Inc.;Riyadh, Saudi Arabia
+236;Omnicare Inc;Vientiane, Laos
+237;Old Dominion Freight Line Inc;Riga, Latvia
+238;Carpenter Technology;Bangui, Central African Republic
+239;Black Hills Corp;Monaco, Monaco
+240;BioMed Realty Trust Inc;Ulaanbaatar, Mongolia
+241;Greif Bros Corp;Tallinn, Estonia
+242;Diebold Inc;Port Moresby, Papua New Guinea
+243;Donaldson Co;Asuncion, Paraguay
+244;Janus Capital Group Inc;Tehran, Iran
+245;ARRIS Group Inc;Belmopan, Belize
+246;Arrow Electronics Inc;Porto-Novo, Benin
+247;New York Community Bancorp Inc;Luxembourg, Luxembourg
+248;Crane Co.;Brazzaville, Republic of the Congo
+249;Ingram Micro Inc A;Nukualofa, Tonga
+250;Informatica Corp;Port of Spain, Trinidad and Tobago
+251;Flowers Foods Inc;Tbilisi, Georgia
+252;Mentor Graphics Corp;Algiers, Algeria
+253;Miller, Herman Inc;Andorra la Vella, Andorra
+254;JetBlue Airways Corp;Amman, Jordan
+255;AOL Inc;Bandar Seri Begawan, Brunei
+256;A.O. Smith Corp;Sofia, Bulgaria
+257;Energizer Hldgs Inc;Juba, South Sudan
+258;Con-way Inc;Copenhagen, Denmark
+259;Idacorp Inc;Kampala, Uganda
+260;InterDigital Inc;Kyiv, Ukraine
+261;Acxiom;Abuja, Nigeria
+262;Mednax Inc;Vienna, Austria
+263;MDC Holdings Inc.;Baku, Azerbaijan
+264;Cadence Design Sys Inc;Apia, Samoa
+265;AMC Networks;Ottawa, Canada
+266;Advanced Micro Devices;Bangui, Central African Republic
+267;DeVry Inc;Bern, Switzerland
+268;Lincoln Electric Holdings Inc.;Palikir, Micronesia
+269;HSN Inc;Port Vila, Vanuatu
+270;Hubbell Inc;Vatican City, Vatican City
+271;Owens & Minor Inc;Ramallah, Palestine
+272;Cytec Industries Inc;Budapest, Hungary
+273;Dana Holding Corp;Reykjavik, Iceland
+274;Cathay General Bancorp;Freetown, Sierra Leone
+275;Great Plains Energy Inc;Monrovia, Liberia
+276;Denbury Resources Inc;Dili, Timor-Leste
+277;Domino's Pizza Inc;Lome, Togo
+278;Knowles Corp;Maputo, Mozambique
+279;Brunswick Corp;Helsinki, Finland
+280;Belden Corp;Paris, France
+281;Omega Healthcare Investors;Lisbon, Portugal
+282;Corrections Corp of America;Dublin, Ireland
+283;Cypress Semiconductor Corp;Jerusalem, Israel
+284;J.B. Hunt Transport Services, Inc.;Gaborone, Botswana
+285;Global Payments Inc.;Lilongwe, Malawi
+286;Gulfport Energy Corp;Kuala Lumpur, Malaysia
+287;Nabors Industries Ltd;Nicosia, Cyprus
+288;Kirby Corp;Managua, Nicaragua
+289;Keysight Technologies Inc;Niamey, Niger
+290;AptarGroup Inc;Athens, Greece
+291;FactSet Research System Inc;Yerevan, Armenia
+292;Communications Sales & Leasing Inc;Nairobi, Kenya
+293;Carlisle Companies Inc.;South Tarawa, Kiribati
+294;Gartner Inc;Praia, Cabo Verde
+295;Alexander & Baldwin Inc;Paramaribo, Suriname
+296;Align Technology;Mbabane, Swaziland
+297;Mettler-Toledo Intl;Quito, Ecuador
+298;Mack-Cali Realty Corp;Montevideo, Uruguay
+299;Commercial Metals Company;Tashkent, Uzbekistan
+300;Associated Banc-Corp;Tegucigalpa, Honduras
+301;Extra Space Storage Inc.;Dhaka, Bangladesh
+302;First American Financial Corp;Bridgetown, Barbados
+303;Mid-America Apartment Communities Inc;Belgrade, Serbia
+304;Ingredion Inc;Beijing, China
+305;World Fuel Services Corp;Bogota, Colombia
+306;Arthur J Gallagher & Co;Dodoma, Tanzania
+307;NOW Inc;Podgorica, Montenegro
+308;Denbury Resources Inc;Rabat, Morocco
+309;Clarcor Inc.;Lusaka, Zambia
+310;HNI Corp;Manila, Philippines
+311;Esterline Technologies;La Paz, Bolivia
+312;Eaton Vance Corp;Sarajevo, Bosnia and Herzegovina
+313;Liberty Property Trust;Honiara, Solomon Islands
+314;Broadridge Financial Solutio;Luxembourg, Luxembourg
+315;Brown & Brown Inc;Skopje, Macedonia
+316;Advent Software Inc;Ankara, Turkey
+317;Dean Foods Co;Amsterdam, Netherlands
+318;KBR Inc;Tbilisi, Georgia
+319;Kirby Corp;Berlin, Germany
+320;Highwoods Properties;Kigali, Rwanda
+321;Omnicare Inc;Amman, Jordan
+322;LaSalle Hotel Properties;Sri Jayawardenepura Kotte, Sri Lanka
+323;Lennox International Inc;Khartoum, Sudan
+324;Bio-Rad Laboratories-A;Bamako, Mali
+325;Fulton Financial Corp (PA);Djibouti , Djibouti
+326;Greif Bros Corp;Roseau, Dominica
+327;Diebold Inc;Pyongyang, North Korea
+328;Jones Lang Lasalle Inc;Bissau, Guinea-Bissau
+329;Janus Capital Group Inc;Georgetown, Guyana
+330;ARRIS Group Inc;Nassau, Bahamas
+331;NeuStar, Inc.;Bishkek, Kyrgyzstan
+332;Crane Co.;Bangui, Central African Republic
+333;California Resources Corp;N'Djamena, Chad
+334;Belden Corp;Chisinau, Moldova
+335;Flowers Foods Inc;Asmara, Eritrea
+336;FirstMerit Corp;Tallinn, Estonia
+337;Mentor Graphics Corp;Caracas, Venezuela
+338;JetBlue Airways Corp;New Delhi, India
+339;J C Penney Company Inc;Jakarta, Indonesia
+340;ANSYS Inc;Porto-Novo, Benin
+341;Energizer Hldgs Inc;Singapore, Singapore
+342;CLECO Corporation;Kinshasa, Democratic Republic of the Congo
+343;CNO Financial Group Inc;Brazzaville, Republic of the Congo
+344;InterDigital Inc;Nukualofa, Tonga
+345;FEI Company;Libreville, Gabon
+346;First Horizon National Corp;Banjul, Gambia
+347;MDC Holdings Inc.;Andorra la Vella, Andorra
+348;Cabot Corp;Lisbon, Portugal
+349;CDK Global Inc;Doha, Qatar
+350;AMC Networks;Bandar Seri Begawan, Brunei
+351;DST Systems Inc;Juba, South Sudan
+352;DeVry Inc;Madrid, Spain
+353;Lincoln Electric Holdings Inc.;Kuala Lumpur, Malaysia
+354;HSN Inc;Kyiv, Ukraine
+355;Hubbell Inc;Abu Dhabi, United Arab Emirates
+356;Aaron's Inc;Niamey, Niger
+357;Manpower Inc;Vienna, Austria
+358;Manhattan Associates Inc.;Baku, Azerbaijan
+359;Cathay General Bancorp;Apia, Samoa
+360;Hain Celestial Group Inc;Pristina, Kosovo
+361;Domino's Pizza Inc;Stockholm, Sweden
+362;Dresser-Rand Group;Bern, Switzerland
+363;Knowles Corp;Mexico City, Mexico
+364;Acuity Brands Inc;Cairo, Egypt
+365;Brunswick Corp;San Salvador, El Salvador
+366;Omega Healthcare Investors;Ramallah, Palestine
+367;CommVault Systems;Budapest, Hungary
+368;Corrections Corp of America;Reykjavik, Iceland
+369;Peabody Energy Corp;Victoria, Seychelles
+370;Global Payments Inc.;Monrovia, Liberia
+371;Nabors Industries Ltd;Bogota, Colombia
+372;NCR Corp;Moroni, Comoros
+373;Keysight Technologies Inc;Maputo, Mozambique
+374;Atmos Energy Corp;Helsinki, Finland
+375;AptarGroup Inc;Paris, France
+376;FactSet Research System Inc;Harare, Zimbabwe
+377;Communications Sales & Leasing Inc;Jerusalem, Israel
+378;Carlisle Companies Inc.;Rome, Italy
+379;Gartner Inc;Gaborone, Botswana
+380;Guess? Inc;Antananarivo, Madagascar
+381;Graco Inc;Lilongwe, Malawi
+382;Mettler-Toledo Intl;Nicosia, Cyprus
+383;Mack-Cali Realty Corp;Ankara, Turkey
+384;Arrow Electronics Inc;Athens, Greece
+385;Associated Banc-Corp;Saint George's, Grenada
+386;First American Financial Corp;Yerevan, Armenia
+387;Live Nation Entertainment Inc;Basseterre, Saint Kitts and Nevis
+388;Mid-America Apartment Communities Inc;Castries, Saint Lucia
+389;World Fuel Services Corp;Phnom Penh, Cambodia
+390;Aspen Insurance Holdings Ltd;Khartoum, Sudan
+391;Arthur J Gallagher & Co;Paramaribo, Suriname
+392;Mine Safety Appliances;Quito, Ecuador
+393;Chico's Fas Inc;Washington, D.C., United States of America
+394;Ciena Corp;Montevideo, Uruguay
+395;Health Net Inc;Muscat, Oman
+396;Equity One Inc;Bridgetown, Barbados
+397;Esterline Technologies;Minsk, Belarus
+398;Louisiana-Pacific Corp;Dakar, Senegal
+399;Broadridge Financial Solutio;Beirut, Lebanon
+400;Advent Software Inc;Dushanbe, Tajikistan
+401;American Eagle Outfitters;Dodoma, Tanzania
+402;Douglass Emmett Inc;Ulaanbaatar, Mongolia
+403;Corporate Executive Board Co;Sana'a, Yemen
+404;Cullen/Frost Bankers Inc;Lusaka, Zambia
+405;Highwoods Properties;Lima, Peru
+406;Omnicare Inc;Tehran, Iran
+407;Old Dominion Freight Line Inc;Baghdad, Iraq
+408;Lennox International Inc;Honiara, Solomon Islands
+409;Black Hills Corp;Luxembourg, Luxembourg
+410;Fulton Financial Corp (PA);Yamoussoukro, Cote d'Ivoire
+411;Greif Bros Corp;Zagreb, Croatia
+412;Diebold Inc;Kathmandu, Nepal
+413;Janus Capital Group Inc;Tbilisi, Georgia
+414;John Wiley & Sons Inc. 'A';Berlin, Germany
+415;Hancock Hldgs Co;Kigali, Rwanda
+416;NeuStar, Inc.;Amman, Jordan
+417;Camden Property Trust;Ouagadougou, Burkina Faso
+418;Crane Co.;Bujumbura, Burundi
+419;Belden Corp;Valletta, Malta
+420;Foot Locker Inc;Djibouti , Djibouti
+421;Flowers Foods Inc;Roseau, Dominica
+422;Miller, Herman Inc;Abu Dhabi, United Arab Emirates
+423;JetBlue Airways Corp;Bissau, Guinea-Bissau
+424;J C Penney Company Inc;Georgetown, Guyana
+425;AOL Inc;Baku, Azerbaijan
+426;Nordson Corp;Vientiane, Laos
+427;NewMarket Corp;Riga, Latvia
+428;Con-way Inc;Bangui, Central African Republic
+429;InterDigital Inc;Damascus, Syria
+430;FEI Company;Asmara, Eritrea
+431;First Horizon National Corp;Tallinn, Estonia
+432;MDC Holdings Inc.;Vatican City, Vatican City
+433;CDK Global Inc;Panama City, Panama
+434;Cadence Design Sys Inc;Port Moresby, Papua New Guinea
+435;AMC Networks;Belmopan, Belize
+436;DST Systems Inc;Singapore, Singapore
+437;DeVry Inc;Bratislava, Slovakia
+438;Compass Minerals International Inc.;Brazzaville, Republic of the Congo
+439;HSN Inc;Lome, Togo
+440;Hubbell Inc;Nukualofa, Tonga
+441;Aaron's Inc;Windhoek, Namibia
+442;Manhattan Associates Inc.;Algiers, Algeria
+443;Cheesecake Factory Inc/The;Lisbon, Portugal
+444;Cathay General Bancorp;Doha, Qatar
+445;Great Plains Energy Inc;Kingston, Jamaica
+446;Denbury Resources Inc;Seoul, South Korea
+447;Domino's Pizza Inc;Juba, South Sudan
+448;Kilroy Realty Corp;Male, Maldives
+449;Health Net Inc;Kampala, Uganda
+450;Hologic Inc;Kyiv, Ukraine
+451;Oceaneering Intl Inc;Niamey, Niger
+452;Corrections Corp of America;Guatemala City, Guatemala
+453;Cypress Semiconductor Corp;Conakry, Guinea
+454;Buffalo Wild Wings Inc;Apia, Samoa
+455;GATX Corp.;Kuwait City, Kuwait
+456;Nabors Industries Ltd;Phnom Penh, Cambodia
+457;NCR Corp;Yaounde, Cameroon
+458;Keysight Technologies Inc;Mexico City, Mexico
+459;Atmos Energy Corp;Cairo, Egypt
+460;AptarGroup Inc;San Salvador, El Salvador
+461;Office Depot Inc;Ramallah, Palestine
+462;Communications Sales & Leasing Inc;Budapest, Hungary
+463;Carlisle Companies Inc.;Reykjavik, Iceland
+464;Gartner Inc;Minsk, Belarus
+465;Guess? Inc;Monrovia, Liberia
+466;Graco Inc;Tripoli, Libya
+467;Minerals Technologies Inc;Moroni, Comoros
+468;Mack-Cali Realty Corp;Bangkok, Thailand
+469;Commercial Metals Company;Dili, Timor-Leste
+470;Ashland Inc;Helsinki, Finland
+471;Extra Space Storage Inc.;Harare, Zimbabwe
+472;First American Financial Corp;Tirana, Albania
+473;Cree Inc;Jerusalem, Israel
+474;Ingredion Inc;Sarajevo, Bosnia and Herzegovina
+475;World Fuel Services Corp;Gaborone, Botswana
+476;Akorn, Inc;Pretoria, South Africa
+477;Mine Safety Appliances;Havana, Cuba
+478;Ciena Corp;Ashgabat, Turkmenistan
+479;Clarcor Inc.;Funafuti, Tuvalu
+480;HNI Corp;Wellington, New Zealand
+481;Esterline Technologies;Buenos Aires, Argentina
+482;Eaton Vance Corp;Yerevan, Armenia
+483;Liberty Property Trust;Castries, Saint Lucia
+484;IDEXX Laboratories Inc;Praia, Cabo Verde
+485;IDEX Corp;Phnom Penh, Cambodia
+486;American Eagle Outfitters;Mbabane, Swaziland
+487;Dean Foods Co;Nouakchott, Mauritania
+488;Dick's Sporting Goods Inc;Port Louis, Mauritius
+489;Cullen/Frost Bankers Inc;Montevideo, Uruguay
+490;Highwoods Properties;Islamabad, Pakistan
+491;Helix Energy Solutions Group Inc;Ngerulmud, Palau
+492;Old Dominion Freight Line Inc;Port-au-Prince, Haiti
+493;Lennox International Inc;Dakar, Senegal
+494;LKQ Corp;Belgrade, Serbia
+495;BioMed Realty Trust Inc;Beirut, Lebanon
+496;ACI Worldwide Inc;Dodoma, Tanzania
+497;Diebold Inc;Podgorica, Montenegro
+498;Donaldson Co;Rabat, Morocco
+499;Janus Capital Group Inc;Addis Ababa, Ethiopia
+500;Hancock Hldgs Co;Lima, Peru
+501;HCC Insurance Holdings Inc;Manila, Philippines
+502;New York Community Bancorp Inc;Baghdad, Iraq
+503;California Resources Corp;Thimphu, Bhutan
+504;Cree Inc;La Paz, Bolivia
+505;Sotheby's;Skopje, Macedonia
+506;FirstMerit Corp;Yamoussoukro, Cote d'Ivoire
+507;Community Health Systems;Kathmandu, Nepal
+508;City National Corp;Amsterdam, Netherlands
+509;J C Penney Company Inc;Berlin, Germany
+510;AOL Inc;Luanda, Angola
+511;A.O. Smith Corp;Saint John's, Antigua and Barbuda
+512;Nordson Corp;Amman, Jordan
+513;Con-way Inc;Ouagadougou, Burkina Faso
+514;InterDigital Inc;Madrid, Spain
+515;Integrated Device Technology;Sri Jayawardenepura Kotte, Sri Lanka
+516;First Horizon National Corp;Roseau, Dominica
+517;MDC Holdings Inc.;Abu Dhabi, United Arab Emirates
+518;Meredith Corp;London, United Kingdom
+519;ITT Corp;Bissau, Guinea-Bissau
+520;Advanced Micro Devices;Nassau, Bahamas
+521;Abercrombie & Fitch Co.;Manama, Bahrain
+522;DeVry Inc;Sao Tome, Sao Tome and Principe
+523;Centene Corp;N'Djamena, Chad
+524;Cinemark Holdings Inc;Santiago, Chile
+525;Hubbell Inc;Taipei, Taiwan
+526;Aaron's Inc;Palikir, Micronesia
+527;Advance Auto Parts Inc;Chisinau, Moldova
+528;Manhattan Associates Inc.;Hanoi, Vietnam
+529;CBOE Holdings Inc;Panama City, Panama
+530;Commerce Bancshares Inc;Port Moresby, Papua New Guinea
+531;Alexander & Baldwin Inc;Porto-Novo, Benin
+532;Dresser-Rand Group;Bratislava, Slovakia
+533;Knowles Corp;Tripoli, Libya
+534;Kilroy Realty Corp;Vaduz, Liechtenstein
+535;Hospitality Properties Trust;Port of Spain, Trinidad and Tobago
+536;Omega Healthcare Investors;Naypyidaw, Myanmar (Burma)
+537;Oceaneering Intl Inc;Windhoek, Namibia
+538;Cypress Semiconductor Corp;Banjul, Gambia
+539;Buffalo Wild Wings Inc;Doha, Qatar
+540;BancorpSouth Inc;Bucharest, Romania
+541;Gulfport Energy Corp;Kingston, Jamaica
+542;Deluxe Corporation;Madrid, Spain
+543;Keysight Technologies Inc;Kuala Lumpur, Malaysia
+544;KLX Inc;Male, Maldives
+545;Avon Products Inc;Prague, Czech Republic
+546;Office Depot Inc;Niamey, Niger
+547;Corporate Office Properties;Abuja, Nigeria
+548;Carlisle Companies Inc.;Guatemala City, Guatemala
+549;Gartner Inc;Vienna, Austria
+550;Itron Inc;Baku, Azerbaijan
+551;Graco Inc;Kuwait City, Kuwait
+552;Mettler-Toledo Intl;Yaounde, Cameroon
+553;John Wiley & Sons Inc. 'A';Mexico City, Mexico
+554;Kate Spade & Co;Palikir, Micronesia
+555;Associated Banc-Corp;San Salvador, El Salvador
+556;First American Financial Corp;Port Vila, Vanuatu
+557;Fortune Brands Home & Security Inc;Vatican City, Vatican City
+558;Carters Inc;Reykjavik, Iceland
+559;World Fuel Services Corp;Minsk, Belarus
+560;Aspen Insurance Holdings Ltd;Belgrade, Serbia
+561;Arthur J Gallagher & Co;Victoria, Seychelles
+562;Mine Safety Appliances;Moroni, Comoros
+563;Ciena Corp;Bangkok, Thailand
+564;Clarcor Inc.;Dili, Timor-Leste
+565;A.O. Smith Corp;Paris, France
+566;Esterline Technologies;Harare, Zimbabwe
+567;Eaton Vance Corp;Tirana, Albania
+568;Louisiana-Pacific Corp;Warsaw, Poland
+569;IDEXX Laboratories Inc;Gaborone, Botswana
+570;IDEX Corp;Brasilia, Brazil
+571;American Eagle Outfitters;Mogadishu, Somalia
+572;Dean Foods Co;Antananarivo, Madagascar
+573;Dick's Sporting Goods Inc;Lilongwe, Malawi
+574;Cognex Corp;Ashgabat, Turkmenistan
+575;Highwoods Properties;Amsterdam, Netherlands
+576;Helix Energy Solutions Group Inc;Wellington, New Zealand
+577;Energen Corp;Canberra, Australia
+578;Lennox International Inc;Basseterre, Saint Kitts and Nevis
+579;Black Hills Corp;Nairobi, Kenya
+580;BioMed Realty Trust Inc;South Tarawa, Kiribati
+581;American Campus Communities;Paramaribo, Suriname
+582;Donaldson Co;Majuro, Marshall Islands
+583;3D Systems Corp;Nouakchott, Mauritania
+584;John Wiley & Sons Inc. 'A';Quito, Ecuador
+585;HCC Insurance Holdings Inc;Muscat, Oman
+586;Hawaiian Electric Industries;Islamabad, Pakistan
+587;NVR Inc;Tegucigalpa, Honduras
+588;Lancaster Colony Corp;Dakar, Senegal
+589;Belden Corp;Riga, Latvia
+590;B/E Aerospace Inc;Beirut, Lebanon
+591;FirstMerit Corp;Beijing, China
+592;Community Health Systems;Ulaanbaatar, Mongolia
+593;City National Corp;Podgorica, Montenegro
+594;J C Penney Company Inc;Addis Ababa, Ethiopia
+595;AOL Inc;Hanoi, Vietnam
+596;A.O. Smith Corp;Sana'a, Yemen
+597;NewMarket Corp;Baghdad, Iraq
+598;Cooper Companies Inc;La Paz, Bolivia
+599;Avon Products Inc;Luxembourg, Luxembourg
+600;Avnet Inc;Skopje, Macedonia
+601;Fair Isaac & Co Inc;Yamoussoukro, Cote d'Ivoire
+602;MDC Holdings Inc.;Port of Spain, Trinidad and Tobago
+603;Meredith Corp;Tunis, Tunisia
+604;ITT Corp;Berlin, Germany
+605;AMC Networks;Luanda, Angola
+606;DeVry Inc;Bucharest, Romania
+607;DreamWorks Animation SKG;Moscow, Russia
+608;Compass Minerals International Inc.;Ouagadougou, Burkina Faso
+609;Hubbell Inc;Madrid, Spain
+610;Halyard Health Care;Sri Jayawardenepura Kotte, Sri Lanka
+611;FTI Consulting, Inc.;Roseau, Dominica
+612;Manhattan Associates Inc.;Kyiv, Ukraine
+613;MB Financial Inc.;Abu Dhabi, United Arab Emirates
+614;Cathay General Bancorp;Pyongyang, North Korea
+615;Albemarle Corp;Baku, Azerbaijan
+616;Alexander & Baldwin Inc;Nassau, Bahamas
+617;Dresser-Rand Group;Sao Tome, Sao Tome and Principe
+618;Kilroy Realty Corp;Bishkek, Kyrgyzstan
+619;Lamar Advertising Co-A;Vientiane, Laos
+620;Hospitality Properties Trust;Damascus, Syria
+621;Oceaneering Intl Inc;Chisinau, Moldova
+622;Landstar System Inc;Vatican City, Vatican City
+623;Lexmark International Inc;Caracas, Venezuela
+624;Buffalo Wild Wings Inc;Port Moresby, Papua New Guinea
+625;Global Payments Inc.;New Delhi, India
+626;Gulfport Energy Corp;Jakarta, Indonesia
+627;Dunkin' Brands Group Inc;Singapore, Singapore
+628;Keysight Technologies Inc;Vaduz, Liechtenstein
+629;KLX Inc;Vilnius, Lithuania
+630;AptarGroup Inc;Kinshasa, Democratic Republic of the Congo
+631;Office Depot Inc;Naypyidaw, Myanmar (Burma)
+632;Corporate Office Properties;Windhoek, Namibia
+633;Carlisle Companies Inc.;Banjul, Gambia
+634;Bemis Company Inc;Doha, Qatar
+635;Graco Inc;Kingston, Jamaica
+636;Graham Holdings Co;Tokyo, Japan
+637;Minerals Technologies Inc;Brasilia, Brazil
+638;Kate Spade & Co;Kuala Lumpur, Malaysia
+639;KB Home;Male, Maldives
+640;Associated Banc-Corp;Prague, Czech Republic
+641;First American Financial Corp;Funafuti, Tuvalu
+642;Fortune Brands Home & Security Inc;Kampala, Uganda
+643;Cree Inc;Conakry, Guinea
+644;World Fuel Services Corp;Canberra, Australia
+645;IPG Photonics Corp;Vienna, Austria
+646;Fortinet Inc;Kuwait City, Kuwait
+647;Mine Safety Appliances;Yaounde, Cameroon
+648;Ciena Corp;Mbabane, Swaziland
+649;Clarcor Inc.;Stockholm, Sweden
+650;Apollo Group;Cairo, Egypt
+651;Esterline Technologies;Tashkent, Uzbekistan
+652;Eaton Vance Corp;Port Vila, Vanuatu
+653;Louisiana-Pacific Corp;Ngerulmud, Palau
+654;IDEX Corp;Minsk, Belarus
+655;Ingram Micro Inc A;Brussels, Belgium
+656;American Eagle Outfitters;Victoria, Seychelles
+657;Allscripts Healthcare Soluti;Bogota, Colombia
+658;MDU Resources Group Inc;Moroni, Comoros
+659;Cullen/Frost Bankers Inc;Dili, Timor-Leste
+660;Helix Energy Solutions Group Inc;Rabat, Morocco
+661;Home Properties of New York;Maputo, Mozambique
+662;Brinker International Inc;Harare, Zimbabwe
+663;LKQ Corp;Warsaw, Poland
+664;Alliant Energy Corp;Lisbon, Portugal
+665;BioMed Realty Trust Inc;Jerusalem, Israel
+666;ACI Worldwide Inc;Pretoria, South Africa
+667;Aecom Technology Corp.;Seoul, South Korea
+668;Donaldson Co;Lilongwe, Malawi
+669;Cabot Corp;Ashgabat, Turkmenistan
+670;HCC Insurance Holdings Inc;Wellington, New Zealand
+671;Hawaiian Electric Industries;Managua, Nicaragua
+672;New York Community Bancorp Inc;Accra, Ghana
+673;Lancaster Colony Corp;Castries, Saint Lucia
+674;Leidos Holdings Inc;Kingstown, Saint Vincent and the Grenadines
+675;Sotheby's;Nairobi, Kenya
+676;FirstMerit Corp;Bujumbura, Burundi
+677;Federal Realty Invt Trust;Praia, Cabo Verde
+678;City National Corp;Port Louis, Mauritius
+679;J C Penney Company Inc;Santo Domingo, Dominican Republic
+680;JDS Uniphase Corp;Quito, Ecuador
+681;Genesee & Wyoming;Islamabad, Pakistan
+682;NewMarket Corp;Port-au-Prince, Haiti
+683;Con-way Inc;Manama, Bahrain
+684;Cooper Companies Inc;Dhaka, Bangladesh
+685;Avnet Inc;Beirut, Lebanon
+686;First Horizon National Corp;Santiago, Chile
+687;Fair Isaac & Co Inc;Beijing, China
+688;Allscripts Healthcare Soluti;Dodoma, Tanzania
+689;Jarden Corp;Addis Ababa, Ethiopia
+690;J.B. Hunt Transport Services, Inc.;Suva, Fiji
+691;Abercrombie & Fitch Co.;Sana'a, Yemen
+692;National Instruments Corp;Baghdad, Iraq
+693;Centene Corp;Thimphu, Bhutan
+694;Cinemark Holdings Inc;La Paz, Bolivia
+695;Hubbell Inc;Ljubljana, Slovenia
+696;Fortune Brands Home & Security Inc;Yamoussoukro, Cote d'Ivoire
+697;FTI Consulting, Inc.;Zagreb, Croatia
+698;MB Financial Inc.;Tunis, Tunisia
+699;CBOE Holdings Inc;Kathmandu, Nepal
+700;Commerce Bancshares Inc;Amsterdam, Netherlands
+701;Alexander & Baldwin Inc;Saint John's, Antigua and Barbuda
+702;Dresser-Rand Group;Moscow, Russia
+703;Duke Realty Corp;Kigali, Rwanda
+704;Clean Harbors Inc;Bujumbura, Burundi
+705;Hospitality Properties Trust;Sri Jayawardenepura Kotte, Sri Lanka
+706;Oceaneering Intl Inc;Bamako, Mali
+707;Oil States Intl Inc;Valletta, Malta
+708;Live Nation Entertainment Inc;London, United Kingdom
+709;Buffalo Wild Wings Inc;Pyongyang, North Korea
+710;BancorpSouth Inc;Oslo, Norway
+711;Gulfport Energy Corp;Bissau, Guinea-Bissau
+712;Deluxe Corporation;Sao Tome, Sao Tome and Principe
+713;Dunkin' Brands Group Inc;Riyadh, Saudi Arabia
+714;Kemper Corporation;Bishkek, Kyrgyzstan
+715;Home Properties of New York;Taipei, Taiwan
+716;HMS Holdings;Dushanbe, Tajikistan
+717;OGE Energy Corp;Chisinau, Moldova
+718;Carlisle Companies Inc.;Asmara, Eritrea
+719;CST Brands Inc;Tallinn, Estonia
+720;Broadridge Financial Solutio;Asuncion, Paraguay
+721;Graco Inc;New Delhi, India
+722;Graham Holdings Co;Jakarta, Indonesia
+723;Murphy USA Inc;Porto-Novo, Benin
+724;Kate Spade & Co;Vaduz, Liechtenstein
+725;KB Home;Vilnius, Lithuania
+726;Ascena Retail Group Inc;San Jose, Costa Rica
+727;Orbital ATK Inc;Windhoek, Namibia
+728;Carters Inc;Libreville, Gabon
+729;Charles River Laboratories;Banjul, Gambia
+730;IPG Photonics Corp;Andorra la Vella, Andorra
+731;Fortinet Inc;Kingston, Jamaica
+732;Fulton Financial Corp (PA);Tokyo, Japan
+733;Microsemi;Bandar Seri Begawan, Brunei
+734;Clarcor Inc.;Juba, South Sudan
+735;CoreLogic Inc;Madrid, Spain
+736;Alexandria Real Estate Equit;Copenhagen, Denmark
+737;Eaton Vance Corp;Kyiv, Ukraine
+738;Copart, Inc.;Guatemala City, Guatemala
+739;Camden Property Trust;Conakry, Guinea
+740;IDEX Corp;Vienna, Austria
+741;American Financial Group Inc;Kingstown, Saint Vincent and the Grenadines
+742;AGCO Corp;Apia, Samoa
+743;Mentor Graphics Corp;Ottawa, Canada
+744;Cognex Corp;Stockholm, Sweden
+745;Church & Dwight Co;Bern, Switzerland
+746;Helix Energy Solutions Group Inc;Mexico City, Mexico
+747;Energen Corp;Port Vila, Vanuatu
+748;Energizer Hldgs Inc;Vatican City, Vatican City
+749;LKQ Corp;Ramallah, Palestine
+750;Idacorp Inc;Brussels, Belgium
+751;ACI Worldwide Inc;Belgrade, Serbia
+752;Aecom Technology Corp.;Victoria, Seychelles
+753;3D Systems Corp;Monrovia, Liberia
+754;Cabot Corp;Dili, Timor-Leste
+755;CDK Global Inc;Lome, Togo
+756;Hawaiian Electric Industries;Maputo, Mozambique
+757;New York Community Bancorp Inc;Helsinki, Finland
+758;The New York Times Company;Paris, France
+759;Leidos Holdings Inc;Warsaw, Poland
+760;Sotheby's;Jerusalem, Israel
+761;Big Lots Inc;Rome, Italy
+762;Aaron's Inc;Pretoria, South Africa
+763;City National Corp;Antananarivo, Madagascar
+764;Cytec Industries Inc;Lilongwe, Malawi
+765;JDS Uniphase Corp;Nicosia, Cyprus
+766;Genesee & Wyoming;Wellington, New Zealand
+767;Great Plains Energy Inc;Managua, Nicaragua
+768;National Retail Properties Inc;Saint George's, Grenada
+769;Copart, Inc.;Yerevan, Armenia
+770;Acuity Brands Inc;Nairobi, Kenya
+771;Brunswick Corp;South Tarawa, Kiribati
+772;Fair Isaac & Co Inc;Phnom Penh, Cambodia
+773;CommVault Systems;Nouakchott, Mauritania
+774;Corrections Corp of America;Port Louis, Mauritius
+775;Jarden Corp;Cairo, Egypt
+776;Abercrombie & Fitch Co.;Washington, D.C., United States of America
+777;Ann Inc;Montevideo, Uruguay
+778;National Instruments Corp;Tegucigalpa, Honduras
+779;Cinemark Holdings Inc;Bridgetown, Barbados
+780;CLECO Corporation;Minsk, Belarus
+781;Intl Bancshares Corp;Dakar, Senegal
+782;Fairchild Semiconductor Intl A;Beijing, China
+783;MB Financial Inc.;Dushanbe, Tajikistan
+784;Mercury General Corp;Dodoma, Tanzania
+785;Intersil Corp A;Suva, Fiji
+786;Align Technology;Sana'a, Yemen
+787;Alaska Air Group Inc;Lusaka, Zambia
+788;Duke Realty Corp;Lima, Peru
+789;Clean Harbors Inc;La Paz, Bolivia
+790;Mack-Cali Realty Corp;Sarajevo, Bosnia and Herzegovina
+791;Hill-Rom Holdings Inc;Honiara, Solomon Islands
+792;Oil States Intl Inc;Luxembourg, Luxembourg
+793;Lexmark International Inc;Tunis, Tunisia
+794;Live Nation Entertainment Inc;Ankara, Turkey
+795;Cabela's Inc;Kathmandu, Nepal
+796;Aspen Insurance Holdings Ltd;Luanda, Angola
+797;Arthur J Gallagher & Co;Saint John's, Antigua and Barbuda
+798;NOW Inc;Kigali, Rwanda
+799;KLX Inc;Amman, Jordan
+800;Kemper Corporation;Astana, Kazakhstan
+801;HNI Corp;Sri Jayawardenepura Kotte, Sri Lanka
+802;Corporate Office Properties;Valletta, Malta
+803;OGE Energy Corp;Majuro, Marshall Islands
+804;Convergys Corp;Roseau, Dominica
+805;Broadridge Financial Solutio;Oslo, Norway
+806;Brown & Brown Inc;Muscat, Oman
+807;Gentex Corp.;Georgetown, Guyana
+808;Douglass Emmett Inc;Sao Tome, Sao Tome and Principe
+809;KB Home;Vientiane, Laos
+810;KBR Inc;Riga, Latvia
+811;Ascena Retail Group Inc;N'Djamena, Chad
+812;Orbital ATK Inc;Monaco, Monaco
+813;Omnicare Inc;Ulaanbaatar, Mongolia
+814;Charles River Laboratories;Tallinn, Estonia
+815;IPG Photonics Corp;Vatican City, Vatican City
+816;Intl Speedway Corp A;Caracas, Venezuela
+817;Fulton Financial Corp (PA);Tehran, Iran
+818;Microsemi;Belmopan, Belize
+819;MSCI Inc;Porto-Novo, Benin
+820;Jones Lang Lasalle Inc;Vilnius, Lithuania
+821;Alexandria Real Estate Equit;San Jose, Costa Rica
+822;East West Bancorp Inc;Lome, Togo
+823;Eagle Materials Inc;Nukualofa, Tonga
+824;Crane Co.;Tbilisi, Georgia
+825;IDEX Corp;Algiers, Algeria
+826;Ingram Micro Inc A;Andorra la Vella, Andorra
+827;American Financial Group Inc;Bucharest, Romania
+828;MDU Resources Group Inc;Bandar Seri Begawan, Brunei
+829;Mentor Graphics Corp;Sofia, Bulgaria
+830;Church & Dwight Co;Juba, South Sudan
+831;Ann Inc;Prague, Czech Republic
+832;ANSYS Inc;Copenhagen, Denmark
+833;Energizer Hldgs Inc;Kyiv, Ukraine
+834;Alliant Energy Corp;Niamey, Niger
+835;Idacorp Inc;Vienna, Austria
+836;InterDigital Inc;Baku, Azerbaijan
+837;Aecom Technology Corp.;Apia, Samoa
+838;3D Systems Corp;Kuwait City, Kuwait
+839;Deckers Outdoor Corporation;Bishkek, Kyrgyzstan
+840;Cadence Design Sys Inc;Bern, Switzerland
+841;Hawaiian Electric Industries;Mexico City, Mexico
+842;HollyFrontier Corporation;Palikir, Micronesia
+843;DeVry Inc;Vatican City, Vatican City
+844;Leidos Holdings Inc;Ramallah, Palestine
+845;Lincoln Electric Holdings Inc.;Panama City, Panama
+846;Big Lots Inc;Reykjavik, Iceland
+847;Owens & Minor Inc;Freetown, Sierra Leone
+848;Cytec Industries Inc;Monrovia, Liberia
+849;Dana Holding Corp;Tripoli, Libya
+850;JDS Uniphase Corp;Moroni, Comoros
+851;Great Plains Energy Inc;Maputo, Mozambique
+852;Hain Celestial Group Inc;Naypyidaw, Myanmar (Burma)
+853;National Fuel Gas;Helsinki, Finland
+854;Knowles Corp;Lisbon, Portugal
+855;Kilroy Realty Corp;Doha, Qatar
+856;Acuity Brands Inc;Rome, Italy
+857;Federated Investors Inc B;Gaborone, Botswana
+858;Foot Locker Inc;Brasilia, Brazil
+859;Corrections Corp of America;Kuala Lumpur, Malaysia
+860;J.B. Hunt Transport Services, Inc.;Havana, Cuba
+861;Jabil Circuit Inc;Nicosia, Cyprus
+862;Ann Inc;Funafuti, Tuvalu
+863;Nabors Industries Ltd;Athens, Greece
+864;Centene Corp;Buenos Aires, Argentina
+865;Cinemark Holdings Inc;Yerevan, Armenia
+866;Atmos Energy Corp;Pristina, Kosovo
+867;Fairchild Semiconductor Intl A;Praia, Cabo Verde
+868;FactSet Research System Inc;Phnom Penh, Cambodia
+869;Mercury General Corp;Mbabane, Swaziland
+870;Intersil Corp A;Quito, Ecuador
+871;Gartner Inc;Cairo, Egypt
+872;Align Technology;Montevideo, Uruguay
+873;Dril-Quip;Islamabad, Pakistan
+874;DST Systems Inc;Ngerulmud, Palau
+875;Mack-Cali Realty Corp;Bridgetown, Barbados
+876;Harsco Corp;Belgrade, Serbia
+877;Extra Space Storage Inc.;Beijing, China
+878;First American Financial Corp;Bogota, Colombia
+879;Mid-America Apartment Communities Inc;Dodoma, Tanzania
+880;BancorpSouth Inc;Podgorica, Montenegro
+881;Cabela's Inc;Rabat, Morocco
+882;Aspen Insurance Holdings Ltd;Lusaka, Zambia
+883;NOW Inc;Lima, Peru
+884;Denbury Resources Inc;Manila, Philippines
+885;Kennametal Inc;Baghdad, Iraq
+886;HNI Corp;Honiara, Solomon Islands
+887;OGE Energy Corp;Luxembourg, Luxembourg
+888;ONE Gas Inc;Skopje, Macedonia
+889;Liberty Property Trust;Ankara, Turkey
+890;Broadridge Financial Solutio;Kathmandu, Nepal
+891;Brown & Brown Inc;Amsterdam, Netherlands
+892;Gentex Corp.;Berlin, Germany
+893;Douglass Emmett Inc;Kigali, Rwanda
+894;Dean Foods Co;Basseterre, Saint Kitts and Nevis
+895;KBR Inc;Astana, Kazakhstan
+896;Ascena Retail Group Inc;Ouagadougou, Burkina Faso
+897;Atmel Corp;Bujumbura, Burundi
+898;Omnicare Inc;Valletta, Malta
+899;Charles River Laboratories;Roseau, Dominica
+900;Bio-Rad Laboratories-A;Oslo, Norway
+901;Black Hills Corp;Muscat, Oman
+902;Greif Bros Corp;Bissau, Guinea-Bissau
+903;Microsemi;Nassau, Bahamas
+904;MSCI Inc;Manama, Bahrain
+905;Janus Capital Group Inc;Vientiane, Laos
+906;Alexandria Real Estate Equit;N'Djamena, Chad
+907;ARRIS Group Inc;Santiago, Chile
+908;Eagle Materials Inc;Taipei, Taiwan
+909;Camden Property Trust;Asmara, Eritrea
+910;Ingram Micro Inc A;Caracas, Venezuela
+911;Informatica Corp;Hanoi, Vietnam
+912;Flowers Foods Inc;Jakarta, Indonesia
+913;Mentor Graphics Corp;Belmopan, Belize
+914;Miller, Herman Inc;Porto-Novo, Benin
+915;Church & Dwight Co;Bratislava, Slovakia
+916;ANSYS Inc;Brazzaville, Republic of the Congo
+917;AOL Inc;San Jose, Costa Rica
+918;Energizer Hldgs Inc;Port of Spain, Trinidad and Tobago
+919;Alliant Energy Corp;Naypyidaw, Myanmar (Burma)
+920;Lifepoint Hospitals Inc;Windhoek, Namibia
+921;InterDigital Inc;Andorra la Vella, Andorra
+922;Aecom Technology Corp.;Bucharest, Romania
+923;Mednax Inc;Bandar Seri Begawan, Brunei
+924;MDC Holdings Inc.;Sofia, Bulgaria
+925;CDK Global Inc;Madrid, Spain
+926;HollyFrontier Corporation;Kuala Lumpur, Malaysia
+927;Huntington Ingalls Industries Inc.;Male, Maldives
+928;DST Systems Inc;Kyiv, Ukraine
+929;Lincoln Electric Holdings Inc.;Niamey, Niger
+930;Sotheby's;Saint George's, Grenada
+931;Big Lots Inc;Guatemala City, Guatemala
+932;Aaron's Inc;Kingstown, Saint Vincent and the Grenadines
+933;City National Corp;Pristina, Kosovo
+934;Cytec Industries Inc;Kuwait City, Kuwait
+935;Cathay General Bancorp;Bern, Switzerland
+936;Genesee & Wyoming;Mexico City, Mexico
+937;Great Plains Energy Inc;Palikir, Micronesia
+938;National Retail Properties Inc;San Salvador, El Salvador
+939;Knowles Corp;Ngerulmud, Palau
+940;Kilroy Realty Corp;Ramallah, Palestine
+941;Brunswick Corp;Reykjavik, Iceland
+942;Fair Isaac & Co Inc;Minsk, Belarus
+943;Federated Investors Inc B;Brussels, Belgium
+944;Corrections Corp of America;Tripoli, Libya
+945;J.B. Hunt Transport Services, Inc.;Moroni, Comoros
+946;Jabil Circuit Inc;Kinshasa, Democratic Republic of the Congo
+947;Global Payments Inc.;Maputo, Mozambique
+948;Nabors Industries Ltd;Paris, France
+949;Cinemark Holdings Inc;Harare, Zimbabwe
+950;CLECO Corporation;Tirana, Albania
+951;Atmos Energy Corp;Jerusalem, Israel
+952;Fairchild Semiconductor Intl A;Gaborone, Botswana
+953;FactSet Research System Inc;Brasilia, Brazil
+954;Mednax Inc;Mogadishu, Somalia
+955;Gartner Inc;Nicosia, Cyprus
+956;Itron Inc;Prague, Czech Republic
+957;Align Technology;Funafuti, Tuvalu
+958;Mettler-Toledo Intl;Athens, Greece
+959;Clean Harbors Inc;Yerevan, Armenia
+960;Hospitality Properties Trust;Kigali, Rwanda
+961;Hill-Rom Holdings Inc;Basseterre, Saint Kitts and Nevis
+962;Eagle Materials Inc;Phnom Penh, Cambodia
+963;Live Nation Entertainment Inc;Khartoum, Sudan
+964;Mid-America Apartment Communities Inc;Paramaribo, Suriname
+965;Cabela's Inc;Majuro, Marshall Islands
+966;Aspen Insurance Holdings Ltd;Montevideo, Uruguay
+967;Dunkin' Brands Group Inc;Oslo, Norway
+968;NOW Inc;Muscat, Oman
+969;Chico's Fas Inc;Dhaka, Bangladesh
+970;HMS Holdings;Riyadh, Saudi Arabia
+971;HNI Corp;Dakar, Senegal
+972;OGE Energy Corp;Riga, Latvia
+973;Lifepoint Hospitals Inc;Dushanbe, Tajikistan
+974;Liberty Property Trust;Dodoma, Tanzania
+975;Broadridge Financial Solutio;Ulaanbaatar, Mongolia
+976;Graham Holdings Co;Addis Ababa, Ethiopia
+977;Deckers Outdoor Corporation;Asuncion, Paraguay
+978;Douglass Emmett Inc;Lima, Peru
+979;KBR Inc;Tehran, Iran
+980;HollyFrontier Corporation;Ljubljana, Slovenia
+981;Huntington Ingalls Industries Inc.;Honiara, Solomon Islands
+982;Omnicare Inc;Luxembourg, Luxembourg
+983;Carters Inc;San Jose, Costa Rica
+984;Charles River Laboratories;Yamoussoukro, Cote d'Ivoire
+985;Black Hills Corp;Kathmandu, Nepal
+986;Fortinet Inc;Tbilisi, Georgia
+987;Microsemi;Andorra la Vella, Andorra
+988;MSCI Inc;Luanda, Angola
+989;Jack Henry & Associates Inc;Amman, Jordan
+990;Alexandria Real Estate Equit;Sofia, Bulgaria
+991;ARRIS Group Inc;Ouagadougou, Burkina Faso
+992;NeuStar, Inc.;Valletta, Malta
+993;Camden Property Trust;Djibouti , Djibouti
+994;Crane Co.;Roseau, Dominica
+995;IDEX Corp;Abu Dhabi, United Arab Emirates
+996;Foot Locker Inc;Bissau, Guinea-Bissau
+997;Flowers Foods Inc;Georgetown, Guyana
+998;Mentor Graphics Corp;Baku, Azerbaijan
+999;Cognex Corp;San Marino, San Marino
+1000;Church & Dwight Co;Sao Tome, Sao Tome and Principe

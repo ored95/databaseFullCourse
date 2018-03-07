@@ -1,0 +1,15 @@
+fabric
+textile
+cotton
+linen
+silk
+velvet
+corduroy
+denim
+leather
+synthetics
+nylon
+polyester
+Lycra
+spandex
+embroidery
